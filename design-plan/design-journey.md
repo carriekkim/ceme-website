@@ -71,7 +71,28 @@ TODO: notes/minutes from your first client meeting
 > Note: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** (FireFox makes it easy to take a full screenshot of a page from the context menu (right click).)
 > If you are redesigning an existing site, tell us how you plan to update the site significantly that meets the project's requirements.
 
-TODO: tell us about the website you intend to design and build
+The purpose of the website is to:
+
+1. Promote Eastern Instruments and Music: Showcase a variety of Eastern instrument and musical styles, helping visitors understand and appreciate the rich diversity in Eastern music.
+2. Provide Information: Offer detailed information about instruments, upcoming performances (concerts and ensembles), workshops, and audition opportunities for recruitment and promotion.
+3. Explore Asian Culture: Share insights into Asian culture, connecting music with broader cultural contexts.
+4. Attract New Members: Encourage people to join the club, whether they are experienced musicians or beginners interested in learning.
+
+Our client currently has a website hosted by Cornell Campus groups that only provides a small-paragraph long About section, and an events section that is outdated. We will greatly increase the amount of information provided in our website. As well as give the website its own design theme, not following the campus groups design pattern.
+
+Their current website can be found in this link: https://cornell.campusgroups.com/cornellceme/home/
+
+![Home page](images/CampusGroupsCEMEHome.png)
+![Events page](images/CampusGroupsCEMEEvents.png)
+
+The website will incorporate the following elements:
+
+1. User-Friendly Design: The website will follow basic web design practices, ensuring easy navigation and a clean, organized layout to present information effectively
+2. Visual Elements: Implement Chinese calligraphy, watercolor, and pictures in the background to infuse the design with elements of Eastern aesthetics and culture.
+3. Content Expansion: Create sections dedicated to Eastern instruments, performances, workshops, auditions, and resources to cater to different interests and provide in-depth information.
+4. Recruitment and Promotion: Highlight auditions and recruitment information to attract new members to the club. Also advertising upcoming concerts and events, and encouraging attendance to build a greater appreciation for the club’s music and culture.
+5. Cultural Insights: Feature content that delves into Asian culture, explaining how it influences the music and the club’s activity.
+
 
 
 ### Client Goals (Milestone 1)
