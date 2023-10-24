@@ -59,7 +59,36 @@ Place all design journey images inside the "design-plan" folder and then link th
 ### First Client Meeting Minutes/Notes (Milestone 1)
 > Include your notes/minutes from your first meeting with your client.
 
-TODO: notes/minutes from your first client meeting
+Meeting time: 20 minutes
+
+The client mainly wants to promote eastern instruments and music via the website–he feels it’s not as well known among individuals, and their main goal is to spread information about their club’s cultural and musical identity. They want people to know more about this club and to be motivated to attend their concerts. They also hope to provide more resources for people to look into, and to expand their music repertoire.
+
+The informational content they currently have is:
+
+- Introductions to eastern instruments
+- Details of their upcoming/past performances (concerts, ensembles)
+- Details of their workshops and rehearsals
+- Recruitment information (audition dates, promotional information)
+- Information about Asian culture
+
+They have photographs, posters, and videos as well as textual content.
+
+They used to have a website of their own but they lost access to their domain–they want to update their information and recreate it with better design choices.
+
+They expect their target audience to be:
+
+- People who like/are interested in music
+- People who are interested in this culture and style of music
+- People looking into the club and thinking of joining
+- People who are interested in attending events
+
+Some of their design/aesthetic choices include:
+
+- Chinese calligraphy (images)
+- Pictures in the background
+- Watercolor illustrations
+- Following basic web designing practices
+
 
 
 ### Client Website (Milestone 1)
@@ -120,7 +149,33 @@ The website will incorporate the following elements:
 > Your plan should also include how and when you will assemble/create the sit's content.
 > **Tip:** Your team should plan to work ahead. This project really isn't feasible to complete the night before a deadline.
 
-TODO: your team's plan
+Monday night: Ashley finishes the questionnaire + client information
+
+Tuesday night:
+
+- Carrie finishes cleaning up meeting notes
+- Nana and Juan finishes specifying the website scope, client goals, identifying the website
+
+Wednesday evening (4-5): Everyone meets up to clarify the final submission for M1 on Zoom
+
+Friday Lab (10/27): We write user interview questions
+
+The following week:
+
+- Everyone interviews 1 person each and documents it
+- Ashley gets all the content from the client
+- Everyone brainstorms one design theme each in preparation for Friday lab
+
+Friday Lab (11/3): Settle on goals and audience / write reference website reviews / decide on visual theme
+
+Friday Lab (11/10): Decide on final content organization + other things if necessary
+
+Weekend: We each take 1 page of the website and code it + CSS if necessary
+
+The week following M2 submission (11/15): Everyone tests 1 user each
+
+If there are changes that need to be made, discuss them during the week and work on them during lab.
+
 
 
 ## Understanding Users (Milestone 2)
