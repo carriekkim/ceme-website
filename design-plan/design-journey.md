@@ -29,37 +29,30 @@ Place all design journey images inside the "design-plan" folder and then link th
 ### Client Questionnaire (Milestone 1)
 > Develop a client questionnaire to learn more about your client and their goals.
 > You may use the questionnaire below, you may modify the questionnaire below, or you may create your own.
-
-1. Describe your organization and its purpose.
-
-    TODO: take notes of your client's response
-
-2. What makes your organization and its services special or unique?
-
-    TODO: take notes of your client's response
-
-3. Why are you looking for a new website or updating your existing site?
-
-    TODO: take notes of your client's response
-
-4. Who do you want to visit your site? Who do you believe is your website's intended audience?
-
-    TODO: take notes of your client's response
-
-5. When visiting your site, what actions do you want your visitors to take?
-
-    TODO: take notes of your client's response
-
-6. What are your goals for this site?
-
-    TODO: take notes of your client's response
-
-7. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
-
-    TODO: take notes of your client's response
-
+>
+>1. Describe your organization and its purpose.
+>- The Cornell Eastern Music Ensemble (CEME) is a student-run music ensemble at Cornell that celebrates the rich cultural heritage of East Asian culture. Based on a traditional Chinese orchestra, CEME showcases its Chinese origins with traditional Chinese instruments. While rooted in Chinese origins, we embrace all forms of East Asian musical genres, both old and new, and even Eastern-Western music fusion. On campus, we aim to promote a wider awareness and deeper appreciation of Asian culture through performances and outreach programs. Overall, we want to create a space where music lovers can explore and experience the musical heritage of East Asia.
+>
+>2. What makes your organization and its services special or unique
+>- Our organization promotes and celebrates diversity through the arts. Our most exciting event is Asian Music Night, where we invite other student groups to showcase their cultural performances, uniting cultural understanding and fostering diversity. Our ensemble is also the first to incorporate both Eastern and Western musical instruments, serving as a bridge of cultural diversity and one that is celebrated.
+>
+>3. Why are you looking for a new website or updating your existing site?
+>- We want to update our existing site because the current website has outdated information and is inactive. We lost access to the host service, so we are unable to access our old information. We also want to shift the focus from promotion to providing information about us and Eastern music.
+>
+>4. Who do you want to visit your site? Who do you believe is your website's intended audience?
+>- Our website aims to cater to people, especially music lovers, who are interested in learning more about our club, specifically, Cornell students and faculty members who are enthusiastic about exploring diverse cultural experiences through music
+>
+>5. When visiting your site, what actions do you want your visitors to take?
+>- When visitors explore our website, we hope that the visitors can learn more about our presence and involvement at Cornell for cultural diversity as well as learn more about Eastern music culture, and heritage. If they are interested, we want them to attend our workshops and watch our performances as well.
+>
+>6. What are your goals for this site?
+>- Our goals for this site are to let our visitors learn more about our club and our involvement on campus as well as learn more about the rich heritage of Eastern culture. We want to present a clear portrayal of our mission, our activities like performances and events, our members, as well as resources for Eastern music culture. We hope to foster a deeper understanding with the audience to appreciate Eastern culture through the bridge of music.
+>
+>7. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
+>- For the website, we hope to envision a minimalist and clean design with traditional Chinese motifs such as elegant calligraphy, symbols, and watercolor. For example, we like the aesthetic of luxury Chinese tea packaging, which can create a visually appealing design with the goal of cultural appreciation.
+>
 8. What are your three favorite competitors or similar organizations' websites? Why?
-
+>
     TODO: take notes of your client's response
 
 
