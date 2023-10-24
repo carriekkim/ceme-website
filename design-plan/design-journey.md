@@ -97,9 +97,10 @@ The website will incorporate the following elements:
 > What kind of website do they want? What are their goals for the site?
 > There is no required number of goals. You need as many goals as necessary to reflect your client's desires.
 
-- TODO: Goal 1
-- TODO: Goal 2
-- TODO: Goal 3
+- Educate Visitors about the Club and Campus Involvement: Provide detailed information on the club, its objectives, and its role within the campus community, ensuring visitors gain a comprehensive understanding of how the club contributes to and interacts with the larger academic and social environment.
+- Showcase Eastern Culture and Music: Highlight the rich heritage of Eastern culture and its musical traditions, offering resources, articles, and multimedia content that delve into various aspects of Eastern music. Present the club's activities, such as performances and events.
+- Foster Appreciation and Understanding: Cultivate a deeper connection between the audience and Eastern culture through the medium of music, aiming to inspire appreciation, respect, and a genuine interest in learning more about the cultural nuances and artistic expressions from the Eastern world.
+
 - ...
 
 
@@ -109,7 +110,7 @@ The website will incorporate the following elements:
 > Explain why the website you will create for your client isn't too small and isn't too big.
 > Explain why you think it's the right size for this project.
 
-TODO: explain how your proposed website is the right "size" for this project: not too big, not too small.
+- The website we plan to create is the perfect size for this project because out client has multiple goals for their visitors. This provides us with a lot of content to make multiple pages and a challenging task to come up with excellent designs to help them achieve those goals. Our plan is to decide on a theme and visual design through sketching and card sorting. Then each team member codes a specific webpage. We also plan to make css rules for these pages which will require a lot of troubleshooting, conflict resolution and merging. We also intend to make a responsive and interactive website which would make the user-experience very pleasant. For these reasons, we think that the website we will create is the right size for this assignment.
 
 
 ## Plan/Schedule (Milestone 1)
