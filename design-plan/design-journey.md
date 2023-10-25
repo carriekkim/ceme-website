@@ -53,7 +53,12 @@ Place all design journey images inside the "design-plan" folder and then link th
 >
 8. What are your three favorite competitors or similar organizations' websites? Why?
 >
-    TODO: take notes of your client's response
+>- Cornell Orchestras: https://www.cuorchestra.org/
+>   - I like the interactive and dynamic elements incorporated into their website. They have a well-organized layout which makes it easy to navigate for users seeking information about upcoming performances, orchestra members, and the ensemble's history.
+>- CU Wind Symphony: https://www.cuwinds.com/
+>   - I enjoy their visually appealing design as it is captivating to explore. They use a lot of creative arrangement of the content and multimedia elements.
+>- Yamatai: https://www.yamatai-taiko.com/
+>   - The website is clean and easy to read. It makes it clear how much dedication their members have toward the club and showcases a sense of community.
 
 
 ### First Client Meeting Minutes/Notes (Milestone 1)
