@@ -51,7 +51,7 @@ Place all design journey images inside the "design-plan" folder and then link th
 >7. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
 >- For the website, we hope to envision a minimalist and clean design with traditional Chinese motifs such as elegant calligraphy, symbols, and watercolor. For example, we like the aesthetic of luxury Chinese tea packaging, which can create a visually appealing design with the goal of cultural appreciation.
 >
-8. What are your three favorite competitors or similar organizations' websites? Why?
+>8. What are your three favorite competitors or similar organizations' websites? Why?
 >
 >- Cornell Orchestras: https://www.cuorchestra.org/
 >   - I like the interactive and dynamic elements incorporated into their website. They have a well-organized layout which makes it easy to navigate for users seeking information about upcoming performances, orchestra members, and the ensemble's history.
@@ -144,7 +144,7 @@ The website will incorporate the following elements:
 > Explain why the website you will create for your client isn't too small and isn't too big.
 > Explain why you think it's the right size for this project.
 
-- The website we plan to create is the perfect size for this project because out client has multiple goals for their visitors. This provides us with a lot of content to make multiple pages and a challenging task to come up with excellent designs to help them achieve those goals. Our plan is to decide on a theme and visual design through sketching and card sorting. Then each team member codes a specific webpage. We also plan to make css rules for these pages which will require a lot of troubleshooting, conflict resolution and merging. We also intend to make a responsive and interactive website which would make the user-experience very pleasant. For these reasons, we think that the website we will create is the right size for this assignment.
+- The website we plan to create is the perfect size for this project because our client has multiple goals for their visitors. This provides us with a lot of content to make multiple pages and a challenging task to come up with excellent designs to help them achieve those goals. Our plan is to decide on a theme and visual design through sketching and card sorting. Then each team member codes a specific webpage. We also plan to make css rules for these pages which will require a lot of troubleshooting, conflict resolution and merging. We also intend to make a responsive and interactive website which would make the user-experience very pleasant. For these reasons, we think that the website we will create is the right size for this assignment.
 
 
 ## Plan/Schedule (Milestone 1)
