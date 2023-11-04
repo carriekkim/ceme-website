@@ -194,11 +194,11 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 > Plan the user interview which you'll use to identify the goals of your site's audience.
 > You may use the interview template below and revise it as much as you desire.
 
-**User Interview Briefing & Consent:** "Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project, I am designing the website for (TODO: client's name). I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10 minutes. You are free to quit at any time."
+**User Interview Briefing & Consent:** "Hi, I am a student at Cornell University. I'm currently taking a class on web design and for a project, I am designing the website for Cornell Eastern Music Ensemble, where their goal is to promote culture through music. I'm trying to learn more about the people that might use this site. May I ask you a few questions? It will take about 10 minutes. You are free to quit at any time."
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 
-2. TODO: add your own question
+2. Tell me about the kind of music you listen to and your experience in music.
 
 3. TODO: add your own question
 
@@ -219,11 +219,23 @@ n. What haven't I asked you today that you think would be valuable for me to kno
 
 **Interviewee 1:**
 
-TODO: tell us a bit about your participant
+Interviewee 1: Katherine
+She is a sophomore studying Anthropology at Cornell.
 
-TODO: copy interview questions
-TODO: take notes inline with questions
-
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+She is a sophomore at Cornell, studying Anthropology and planning to do pre-dental. She has been playing violin since third grade and she was part of her school ensemble since middle school.
+2. Tell me about the kind of music you listen to and your experience in music.
+As a dancer, she always loves to listen to and explore all kinds of music genres from rnb to hip-hop to indie to alternative rock, and even classical music. Since third grade, she has been playing violin. She was 1st chair in middle school and 2nd chair throughout high school performing in All-County four times and NYSMMA. She also plays piano where her style ranges from classical, to contemporary such as Bohemian Rhapsody.
+3. Are you interested in finding associations relevant to your music tastes? AND
+4. If so, how do you usually navigate to finding these associations?
+She has always been passionate about finding a community that is related to her music tastes whether it meant finding them in clubs such as orchestra where students love classical and baroque music and drama club where they all enjoy musical theater playlists. Through this way, she is able to find associations with people who have similar music interests as her. Furthermore, she is also interested in exploring other music genres because that’s how her music genre expanded.
+5. Are there any websites related to music or culture you particularly admire? What do you like about them? She particularly enjoys J. W. Pepper & Son, which is a website that has a lot fo sheet music and music samples. She loves how it provides a range of options and she can explore different music styles compared to the traditional repertoire. She recalled specifically she looked for a pop song to play on her violin.
+6. Are there any challenges or frustrations you commonly encounter when you look for an organization’s website?
+When she looked for the Cornell Symphony Orchestra’s website for an audition, she remembered how frustrating it was when their navigation bar menus had sections within each section for the narrow screen. Most of the pages were short, so she felt annoyed that she had to look through all the pages to find recruitment process information. Furthermore, there were a lot of moving words on display and she had to pause and wait to read the whole section.
+7. Can you recall a memorable experience where you discovered a new music group online. What made it memorable?
+While looking at the Cornell Symphony Orchestra website when she wanted to audition during her freshman year, she enjoyed how easy it was to find their performance videos, so it gave her an idea of whether to join the orchestra or not. She was impressed and decided to audition in the end.
+8. Have you ever encountered a website related to a musical group that left you feeling disappointed or frustrated? What happened?
+She doesn’t recall this.
 
 **Interviewee 2:**
 
