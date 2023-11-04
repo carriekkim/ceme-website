@@ -263,9 +263,11 @@ TODO: add additional interviewees as needed
 Goal 1: TODO: brief title
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: design ideas
+  - The main focus is to make the eastern music style and culture easily understandable for the users. We will need to use visual aids such as pictures and videos of their performances and specific instruments to show their unique styles. These visual elements will help them quickly learn brief details about their music style without feeling overwhelmed and bored fo the content. Furthermore, there shouldn’t be too much text content and incorporate accordians so the audience can choose whether to look at them or not.
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
+  - The website design aims to cater to the needs of the musical and cultural explorer in a clear and concise manner. From Interviewee One, who have a broad range of musical genres, she hopes to explore new styles and find the same community. As a result, visual aids and interactivity tools are essential to make the content easy to navigate without feeling overwhelmed.
+
+
 
 Goal 2: TODO: brief title
 
