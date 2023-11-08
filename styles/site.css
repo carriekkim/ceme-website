@@ -95,6 +95,14 @@ main .flex-container aside ul li {
   list-style: none;
 }
 
+main .fullwidth img{
+  padding-bottom:26px;
+  max-width: 1000px;
+  position: relative;
+  margin: 0px;
+  max-width: 46%;
+}
+
 footer {
   margin-top: auto;
   padding-top: 26px;
