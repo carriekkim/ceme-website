@@ -44,8 +44,13 @@
         </div>
         <div class="fullwidth">
             <picture>
-                <img src="images/ourevents_concert.jpeg" alt="">
+                <img id="originalA" src="images/ourevents_concert.jpeg" alt="">
             </picture>
+            <!-- The Modal -->
+                <div id="fullimageA" class="hidden">
+                    <img id="imageA" src="images/sign-vendor.jpg" alt="">
+                    <button id="buttonA">✕</button>
+                </div>
             <picture>
                 <img src="images/ourevents_workshop.jpeg" alt="">
             </picture>
@@ -55,11 +60,16 @@
             <picture>
                 <img src="images/ourevents_asianmusicnight.jpeg" alt="">
             </picture>
-            <div>
-                <button id="prev-button">≡</button>
-                <button id="next-button">≡</button>
+            <div class="flex-container">
+                <button id="prev-button">◀</button>
+                <button id="next-button">▶</button>
             </div>
-            <button id="menubutton">≡</button>
+            <div class="flex-container">
+                <button id="menubutton">⏺</button>
+                <button id="menubutton">⏺</button>
+                <button id="menubutton">⏺</button>
+                <button id="menubutton">⏺</button>
+            </div>
 
         </div>
         <div class="flex-container">

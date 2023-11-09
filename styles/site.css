@@ -73,7 +73,7 @@ main .flex-container article{
   flex-grow:1.5;
   margin:auto;
   height:auto;
-  line-height: 2;
+  line-height: 1.8;
   max-width: 860px;
   text-align: left;
   margin: 0 10px;
@@ -88,9 +88,19 @@ main .flex-container aside{
   margin: auto;
   padding: 20px 20px;
   text-align: left;
-  padding-top:6px;
+  padding-top:0px;
+  line-height: 1.5;
+  margin-left:40px ;
 }
 
+main .flex-container aside p, aside ul {
+  margin: 0;
+}
+
+main .flex-container aside h2{
+  padding-top:6px;
+  padding-bottom: 6px;
+}
 main .flex-container aside ul li {
   list-style: none;
 }
@@ -111,3 +121,108 @@ footer {
   text-align: center;
   padding: 20px 20px;
 }
+
+.hidden {
+  display: none !important;
+}
+
+#originalA:hover{
+  opacity: 0.7;
+}
+
+#fullimageA {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(72, 72, 72, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#fullimageA img {
+  margin:auto;
+  display:block;
+  justify-content: center;
+  height: auto;
+  max-height: 500px;
+  flex-grow: 0;
+  width: 170px;
+  min-width: 740px;
+  max-width: 1000px;
+}
+
+
+#fullimageA img:hover{
+  color: #bbb;
+}
+
+#buttonA {
+  position: absolute;
+  top: 30px;
+  right: 205px;
+  font-size: 40px;
+  font-weight: bold;
+  display: flex;
+  position: fixed;
+  font-size: 25px;
+  background-color: rgba(255, 255, 255, 0.496);
+  opacity: 0.7;
+  z-index: 3;
+  border:none;
+  cursor: pointer;
+}
+
+#buttonA:hover{
+  color: #59010F;
+}
+
+@media (max-width: 850px) {
+  html {
+    box-sizing: border-box;
+  }
+
+  .hidden {
+    display: none !important;
+  }
+
+  header div nav ul{
+    flex-direction: column;
+    text-align: center;
+  }
+
+  #header{
+    display:flex;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 2;
+    position: fixed;
+    top: 0;
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 100%;
+    background-color: #DABDAD;
+    padding: 8px 16px 8px 16px;
+  }
+
+  main .fullwidth{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  main .flex-container{
+    flex-direction: column;
+    text-align: center;
+  }
+
+  main. .flex-container aside{
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+  }
