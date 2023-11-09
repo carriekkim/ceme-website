@@ -299,11 +299,11 @@ Include two screenshots of the home page for each site: narrow and wide.
 
 **We'll refer to these are your "example websites."**
 
-1. <TODO: website url>
+1. <https://www.cuorchestra.org>
 
-    ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+    ![CU Orchestra Narrow](images/websiteonenarrow.png)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
+    ![CU Orchestra Wide](images/websiteonewide.png)
 
 2. <TODO: website url>
 
@@ -321,9 +321,8 @@ Include two screenshots of the home page for each site: narrow and wide.
 ### Example Website 1 Review (Milestone 2)
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
-
-TODO: website reflection/critique
-
+>
+>The Cornell Orchestras website effectively captures their musical presence and community through design patterns and interactivity. The website features orchestra performance photos and video links, as well as the history and background of their club. Navigation is straightforward, with a clear separation of sections that make it easy to access essential information such as About Me, Gallery, and more. However, I felt like some web pages were repetitive and could be grouped, such as the gallery and the performances. The website's design uses common patterns such as large, attention-grabbing designs with highlighted words in different color contrasts such as purple and neon yellow. The color palette is consistent with a beige background and the consistent playful font makes it fun to read. It also has mostly left alignment which makes it easier to read. There is a footer page, but there is no sidebar. They use accordion to show their performance details, which shows ease as some of the content might not be interesting to some people. Overall, the design successfully conveys serious yet community vibes while also being accessible on both mobile and desktop devices, which would convince the students to join and audition for the orchestra.
 
 ### Example Website 2 Review (Milestone 2)
 > Review the website you identified above. (1 paragraph)
@@ -366,9 +365,18 @@ TODO: justify your content decisions
 > Document your **iterations** of card sorting here. You must have at least 2 iterations of card sorting.
 > Include photographic evidence of each iteration of card sorting **and** description of your thought process for each iteration.
 > Please physically sort cards; please don't try and do this digitally.
-
-TODO: photos and explanations of each iteration
-
+>
+>1. Iteration One
+>![Iteration One](images/iterationone.jpeg)
+>As we worked on organizing the content for the CEME website, our main goal was to make sure that our audience would be able to easily find everything they needed to make the most out of their searching experience for the club. So, we first decided to start things off with the homepage section, which includes all the essential details like the images of the whole team, their mission statement, as well as the Eastern Music history/culture. This way, they can quickly get a sense of what the purpose of the club is all about and decide if they want to explore further in exploring the culture and the music. To keep things from getting too overwhelming, we also created a separate section called "Our Musicians/Instruments" that shows the image of the team with the Eboard members and their eboard, as well as the corresponding musicians to each instrument image and their instrument information. This makes it easy for them to find information about the people who are passionate about the music as well as learning more about the music culture. Event details like their workshop, their Asian Music Night, as well as their CEME Annual Concert along with the images are grouped together to show the club’s dedication into their mission. Finally, we have an "Audition Process" section that addresses the process in join the club if they are interested. This should be in a different section from everything else because the other content are ways to keep the audience interested in joining them. Overall, our focus was on creating an easy-to-navigate website that provides all the relevant and valuable information that the audience need to explore and learn about eastern music and the club itself.
+>
+>2. Iteration Two
+>![Iteration Two](images/iterationtwo.jpg)
+>Our next iteration of the content for the CEME website mainly focuses on streamlining the mission on the homepage. The major change from the first iteration was because aside from images of the whole team, mission statement, and history/culture, we decided to also incorporate instrument images and information about them. This way, from the start, the users can immediately learn about the culture and their mission of promoting the culture. Because of this, the next page would be about the members of the community, where there are Eboard members, their images, and the musicians list. This would make users to visualize the team and see if the vibes match them. The other two content remain the same as we do not feel the need to move the content as we want to put their events and their audition process separate for streamline purposes.
+>
+>3. Iteration Three
+>![Iteration Three](images/iterationthree.jpeg)
+>Our third iteration of the content for the CEME website differs from the last two iterations because for the home page, we decided to put the mission statement, images of the whole team, history/culture with the Eboard and their images. We decided that this would make sense because, for the instruments, we would like to combine instrument information with their images, along with the musician list. It wouldn’t make sense if we put a separate Eboard members list along with that as the focus would be on the cultural significance of the instruments. For the other two pages, the Audition Process and Our Events remain the same for streamlining purposes.
 
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
