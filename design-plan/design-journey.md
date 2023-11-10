@@ -406,8 +406,9 @@ TODO: justify your content decisions
 - We plan to use card sort 3
 
 > Explain how the final organization of content is appropriate for your site's audiences.
+> 
+> The CEME website's layout is really well thought out for its audience. On the homepage, you'll find the mission statement, team photos, and some cool info about the group's history and culture, and an introduction to the Executive Board (Eboard). This is a great way to quickly show what the ensemble is all about and connect with visitors who want to know more about the group and the folks behind it. We also have a page about the instruments they use, complete with pictures and a list of musicians. This part not only shows off the instruments but also highlights why they're important culturally. It's perfect for visitors who dig the ensemble's musical and cultural variety, giving them a deeper and more educational look into the group. We decided not to mix the Eboard member info with the instrumentalist section. This keeps things focused and easier for visitors to find what they're interested in. We also kept the Audition Process and Events pages together, which is great for regulars or members who check these sections often to participate more in the ensemble. It makes the site easy to get around and feels familiar. Plus, this consistency kind of shows that the organization is steady and trustworthy, which can be comforting for people thinking about joining or working with them. Overall, the website does a fantastic job of catering to an audience that loves cultural richness and musical variety, but wants information that's clear and easy to understand. It's a nice mix of info and visuals that makes it fun and informative for anyone stopping by.
 
-TODO: (Nana) why does this organization make sense for your audience (not you)?
 
 
 ### Navigation (Milestone 2)
