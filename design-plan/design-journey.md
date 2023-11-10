@@ -31,33 +31,40 @@ Place all design journey images inside the "design-plan" folder and then link th
 > You may use the questionnaire below, you may modify the questionnaire below, or you may create your own.
 >
 >1. Describe your organization and its purpose.
+>
 >- The Cornell Eastern Music Ensemble (CEME) is a student-run music ensemble at Cornell that celebrates the rich cultural heritage of East Asian culture. Based on a traditional Chinese orchestra, CEME showcases its Chinese origins with traditional Chinese instruments. While rooted in Chinese origins, we embrace all forms of East Asian musical genres, both old and new, and even Eastern-Western music fusion. On campus, we aim to promote a wider awareness and deeper appreciation of Asian culture through performances and outreach programs. Overall, we want to create a space where music lovers can explore and experience the musical heritage of East Asia.
 >
 >2. What makes your organization and its services special or unique
+>
 >- Our organization promotes and celebrates diversity through the arts. Our most exciting event is Asian Music Night, where we invite other student groups to showcase their cultural performances, uniting cultural understanding and fostering diversity. Our ensemble is also the first to incorporate both Eastern and Western musical instruments, serving as a bridge of cultural diversity and one that is celebrated.
 >
 >3. Why are you looking for a new website or updating your existing site?
+>
 >- We want to update our existing site because the current website has outdated information and is inactive. We lost access to the host service, so we are unable to access our old information. We also want to shift the focus from promotion to providing information about us and Eastern music.
 >
 >4. Who do you want to visit your site? Who do you believe is your website's intended audience?
+>
 >- Our website aims to cater to people, especially music lovers, who are interested in learning more about our club, specifically, Cornell students and faculty members who are enthusiastic about exploring diverse cultural experiences through music
 >
 >5. When visiting your site, what actions do you want your visitors to take?
+>
 >- When visitors explore our website, we hope that the visitors can learn more about our presence and involvement at Cornell for cultural diversity as well as learn more about Eastern music culture, and heritage. If they are interested, we want them to attend our workshops and watch our performances as well.
 >
 >6. What are your goals for this site?
+>
 >- Our goals for this site are to let our visitors learn more about our club and our involvement on campus as well as learn more about the rich heritage of Eastern culture. We want to present a clear portrayal of our mission, our activities like performances and events, our members, as well as resources for Eastern music culture. We hope to foster a deeper understanding with the audience to appreciate Eastern culture through the bridge of music.
 >
 >7. Is there a "feel" that you want for your site? Are there colors or imagery that you have in mind?
+>
 >- For the website, we hope to envision a minimalist and clean design with traditional Chinese motifs such as elegant calligraphy, symbols, and watercolor. For example, we like the aesthetic of luxury Chinese tea packaging, which can create a visually appealing design with the goal of cultural appreciation.
 >
 >8. What are your three favorite competitors or similar organizations' websites? Why?
 >
->- Cornell Orchestras: https://www.cuorchestra.org/
+>- Cornell Orchestras: <https://www.cuorchestra.org/>
 >   - I like the interactive and dynamic elements incorporated into their website. They have a well-organized layout which makes it easy to navigate for users seeking information about upcoming performances, orchestra members, and the ensemble's history.
->- CU Wind Symphony: https://www.cuwinds.com/
+>- CU Wind Symphony: <https://www.cuwinds.com/>
 >   - I enjoy their visually appealing design as it is captivating to explore. They use a lot of creative arrangement of the content and multimedia elements.
->- Yamatai: https://www.yamatai-taiko.com/
+>- Yamatai: <https://www.yamatai-taiko.com/>
 >   - The website is clean and easy to read. It makes it clear how much dedication their members have toward the club and showcases a sense of community.
 
 
@@ -111,7 +118,7 @@ The purpose of the website is to:
 
 Our client currently has a website hosted by Cornell Campus groups that only provides a small-paragraph long About section, and an events section that is outdated. We will greatly increase the amount of information provided in our website. As well as give the website its own design theme, not following the campus groups design pattern.
 
-Their current website can be found in this link: https://cornell.campusgroups.com/cornellceme/home/
+Their current website can be found in this link: <https://cornell.campusgroups.com/cornellceme/home/>
 
 ![Home page](images/CampusGroupsCEMEHome.png)
 ![Events page](images/CampusGroupsCEMEEvents.png)
@@ -239,10 +246,25 @@ She doesn’t recall this.
 
 **Interviewee 2:**
 
-TODO: tell us a bit about your participant
+Interviewee 2 is a final year student majoring in Information Science. Grew up in a caribbean household and loves caribbean culture and music
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+She is a senior at cornell university studying information science and is on her journey to become a software engineer
+2. Tell me about the kind of music you listen to and your experience in music.
+Listens to a variety of genres of music including reggae, pop, rap, gospel and classical music. She says it all depends on her mood. For example, she only listens to classical music when she is studying and wants to focus on what she is doing. She attributes this diversity in music to her dad who also does the same but “blasts” the music in the house.
+3. Are you interested in finding associations relevant to your music tastes?
+She is always happy when she connects with people who have similar music taste and is always interested in finding associations that facilitate this.
+4. If so, how do you usually navigate to finding these associations?
+Because she spends most of her life on a college campus, she goes to the campus group website and searches up keywords like music to discover new groups. She says that she discovers most of them through Instagram and tiktok and believes that pictures and videos are the best way to be introduced to new things
+5. Are there any websites related to music or culture you particularly admire? What do you like about them?
+She could not recall any websites but stressed again on the importance of images and videos.
+6. Are there any challenges or frustrations you commonly encounter when you look for an organization’s website?
+Again the common theme here was image and visual content. She claimed that although she discovered some organizations on campus groups, they did not have pictures on that website and gave her the impression that those clubs are dead. She always had to search them up on other social media like Instagram before she could actually get a sense of what the group is actually about. She said that this might cause a lot of people to lose interest and could explain why patronization in music groups on campus is not a big thing, given the vast number of music-lovers we have on campus.
+7. Can you recall a memorable experience where you discovered a new music group online. What made it memorable?
+She discovered the Caribbean Student Association through campus groups and decided to visit their instagram. She liked the pictures and videos there because they reminded her a lot of home. She says she was able to interact more with photos and videos because it said a lot about the group. It made her want to join the group even more
+8. Have you ever encountered a website related to a musical group that left you feeling disappointed or frustrated? What happened?
+She does not recall any such event but pointed out how disappointing it is to discover organizations on campus groups and then the website is just bare and outdated.
+
 
 
 **Interviewee 3:**
@@ -269,12 +291,12 @@ Goal 1: TODO: brief title
 
 
 
-Goal 2: TODO: brief title
+Goal 2: Get a feel of the club and its music through images and videos
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
-  - TODO: design ideas
+  - There should be an adequate number of photos as content on the website. These photos should reflect all the activities that the CEME organization is involved in. Some of the pictures will be embedded into interactive tools such as a carousel.
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
-  - TODO: rationale
+  - The interactivity and responsiveness of the website immerse users into the website and will help create a memorable experience. This is because it is very easy and fluid to view the vast content that is present on the website
 
 Goal 3: TODO: brief title
 
@@ -305,11 +327,11 @@ Include two screenshots of the home page for each site: narrow and wide.
 
     ![CU Orchestra Wide](images/websiteonewide.png)
 
-2. <TODO: website url>
+2. <http://www.chinesemusicensemble.org>
 
-    ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+    ![CME of New York wide](images/websiteTwo-wide.png)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
+    ![CME of New York narrow](images/websiteTwo-narrow.png)
 
 3. <TODO: website url>
 
@@ -328,7 +350,7 @@ Include two screenshots of the home page for each site: narrow and wide.
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-TODO: website reflection/critique
+>The Chinese Music Ensemble of New York Website captures the essence of music and community through interactivity and design. The most prominent thing on the website when it is first opened is a wide angled photo of the instrumentalists on stage. This already made me appreciate that they are a community and value the team that they form to create beautiful music. The homepage also features things like their mission statement, a log of past events, a carousel of photos from previous performances, and a “learn about us” section which contains links to more information about the orchestra and the instruments they play. One thing that I really like about this website is that they realized that their audience were most likely going to be chinese-speaking people, and so they have parsed most of the information on the website in Chinese writing. Visually, the website is rather simple. The only colors that pop out are those from pictures. This makes the website have a rather serious and formal feel about it. Considering that our clients are college students, they might not be stimulated by such websites so our client wants us to incorporate a few things that will capture the attention of most people. The content on the website was sorted properly and they adhered to standard practices in terms of responsiveness and interactivity.
 
 
 ### Example Website 3 Review (Milestone 2)
@@ -381,11 +403,11 @@ TODO: justify your content decisions
 ### Final Content Organization (Milestone 2)
 > Which iteration of card sorting will you use for your website?
 
-TODO: tell us which iteration of card sorting you plan to use.
+- We plan to use card sort 3
 
 > Explain how the final organization of content is appropriate for your site's audiences.
 
-TODO: why does this organization make sense for your audience (not you)?
+TODO: (Nana) why does this organization make sense for your audience (not you)?
 
 
 ### Navigation (Milestone 2)
@@ -452,7 +474,7 @@ TODO: wide sketches and explanation
 > Specifically, why does your content organization, navigation, and site design/layout meet the goals of your users?
 > How did you employ **design patterns** to improve the familiarity of the site for your audience?
 
-TODO: 1 paragraph
+TODO: (Nana) 1 paragraph
 
 
 ## Interactivity Rationale (Milestone 2)
