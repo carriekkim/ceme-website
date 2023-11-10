@@ -226,3 +226,18 @@ footer {
     align-items: center;
     justify-content: space-between;
   }
+
+  #fullimageA{
+    z-index:3;
+  }
+  #fullimageA img {
+    max-width: 100%;
+    width: 170px;
+    min-width: 430px;
+    max-width: 560px;
+  }
+
+  #buttonA {
+    top: 145px;
+    right: 25px;
+  }
