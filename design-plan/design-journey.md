@@ -269,13 +269,24 @@ She does not recall any such event but pointed out how disappointing it is to di
 
 **Interviewee 3:**
 
-TODO: tell us a bit about your participant
+David Martinez Lopez is a second year Cornell student studying information science.
 
-TODO: copy interview questions
-TODO: take notes inline with questions
-
-
-TODO: add additional interviewees as needed
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+Hi, i’m David Martinez Lopez, my pronouns are he/him, I like running, Rock climbing, photography, and music. I’m mexican, from LA.
+2. Are you a music lover? Tell me about the kind of music you listen to.
+I would say I’m a music lover, some groups I like listening to are The Strokes, Sublime, MF Doom, The Smiths, Los Tigres del Norte, Laufey, and Frank Sinatra.
+3. Are you interested in finding associations relevant to your music tastes?
+Not really, I feel like I can enjoy music on my own, and naturally the friends I make usually have similar music tastes, and since my life does not revolve around music, I don’t see a need to make it a more important part of my life.
+4. If so, how do you usually navigate to finding these associations?
+Im not really sure, I would probably need to stumble upon it in social media, or ask a friend if they have heard anything about a club like that.
+5. Are there any websites related to music or culture you particularly admire? What do you like about them?
+Not necessarily, but i do follow a few instagram pages that are about the groups I listen to, theres a page called “the strokes archive” which hosts content related to the band, with bts clips, and covers. And it allows me to feel more connected with the artists, than if i were to just listen to the music.
+6. Are there any challenges or frustrations you commonly encounter when you look for an organization’s website?
+Yeah, usually I would go on Campus Groups to find an orgs website, but i would usually not find anything, it would just be a campus groups template.
+7. Can you recall a memorable experience where you discovered a new music group online. What made it memorable?
+Laufey, this is a specific case of falling into the tiktok algorithm, what made it memorable was the fact that the music she made felt like a modern version of the music I was already listening to, frank sinatra, louie armstrong, etc… and with her engaging content on tiktok it let me see more of her fun side and made me a fan really quickly.
+8. Have you ever encountered a website related to a musical group that left you feeling disappointed or frustrated? What happened?
+Not any that I recall.
 
 
 ### Goals (Milestone 2)
@@ -406,7 +417,7 @@ TODO: justify your content decisions
 - We plan to use card sort 3
 
 > Explain how the final organization of content is appropriate for your site's audiences.
-> 
+>
 > The CEME website's layout is really well thought out for its audience. On the homepage, you'll find the mission statement, team photos, and some cool info about the group's history and culture, and an introduction to the Executive Board (Eboard). This is a great way to quickly show what the ensemble is all about and connect with visitors who want to know more about the group and the folks behind it. We also have a page about the instruments they use, complete with pictures and a list of musicians. This part not only shows off the instruments but also highlights why they're important culturally. It's perfect for visitors who dig the ensemble's musical and cultural variety, giving them a deeper and more educational look into the group. We decided not to mix the Eboard member info with the instrumentalist section. This keeps things focused and easier for visitors to find what they're interested in. We also kept the Audition Process and Events pages together, which is great for regulars or members who check these sections often to participate more in the ensemble. It makes the site easy to get around and feels familiar. Plus, this consistency kind of shows that the organization is steady and trustworthy, which can be comforting for people thinking about joining or working with them. Overall, the website does a fantastic job of catering to an audience that loves cultural richness and musical variety, but wants information that's clear and easy to understand. It's a nice mix of info and visuals that makes it fun and informative for anyone stopping by.
 
 

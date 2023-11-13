@@ -104,6 +104,11 @@ main .flex-container aside h2{
 main .flex-container aside ul li {
   list-style: none;
 }
+main article h2 {
+  font-size: 35px;
+  padding: 0 0;
+  margin: 0 0;
+}
 
 main .fullwidth img{
   padding-bottom:26px;
@@ -179,6 +184,50 @@ footer {
 #buttonA:hover{
   color: #59010F;
 }
+
+.gallery {
+  margin-top: 3em;
+}
+.next-prev .flex-container{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.next-prev .flex-container button {
+  height: 500px;
+  width: 50px;
+  background-color:rgb(139, 139, 139);
+  outline: none;
+}
+.next-prev .flex-container button:hover{
+  background-color: #5f5f5f;
+  cursor: pointer;
+}
+
+.next-prev .flex-container picture{
+  display: inline-block;
+  width: 800px;
+  height: 500px;
+  background-color: black;
+}
+.bottom-buttons .flex-container button{
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin: 1em 0.2em 0;
+  outline: none;
+  border-radius: 50%;
+  background-color: rgb(139, 139, 139);
+}
+.active{
+  background-color: #5f5f5f
+}
+.bottom-buttons .flex-container button:hover{
+  background-color: #5f5f5f;
+  cursor: pointer;
+}
+
 
 @media (max-width: 850px) {
   html {
