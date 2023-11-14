@@ -61,6 +61,7 @@ main {
 
 main h2{
   padding-bottom: 15px;
+  font-size: 35px;
 }
 main .flex-container{
   display: flex;
