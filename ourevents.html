@@ -42,36 +42,29 @@
         <div>
             <h2>Our Events</h2>
         </div>
-        <div class="fullwidth">
-            <picture>
-                <img id="originalA" src="images/ourevents_concert.jpeg" alt="">
-            </picture>
-            <!-- The Modal -->
-                <div id="fullimageA" class="hidden">
-                    <img id="imageA" src="images/ourevents_concert.jpeg" alt="">
-                    <button id="buttonA">✕</button>
-                </div>
-            <picture>
-                <img src="images/ourevents_workshop.jpeg" alt="">
-            </picture>
-            <picture>
-                <img src="images/ourevents_closeconcert.jpeg" alt="">
-            </picture>
-            <picture>
-                <img src="images/ourevents_asianmusicnight.jpeg" alt="">
-            </picture>
-            <div class="flex-container">
+        <div class="gallery">
+            <div class="next-prev">
+              <div class="flex-container">
                 <button id="prev-button">◀</button>
+                <picture>
+                  <img id="image1" src="images/ourevents_concert.jpeg" alt="Image of the spring annual concert" width="750" height="500">
+                  <img id="image2" src="images/ourevents_workshop.jpeg" alt="Image of the workshop" class="hidden" width="750" height="500">
+                  <img id="image3" src="images/ourevents_closeconcert.jpeg" alt="Image of close shot of the spring annual concert" class="hidden" width="750" height="500">
+                  <img id="image4" src="images/ourevents_asianmusicnight.jpeg" alt="Image of Asian Music Night" class="hidden" width="750" height="500">
+                </picture>
                 <button id="next-button">▶</button>
+              </div>
             </div>
-            <div class="flex-container">
-                <button id="menubutton">⏺</button>
-                <button id="menubutton">⏺</button>
-                <button id="menubutton">⏺</button>
-                <button id="menubutton">⏺</button>
+            <div class="bottom-buttons">
+                <div class="flex-container">
+                  <button id="button1" class="active"></button>
+                  <button id="button2"></button>
+                  <button id="button3"></button>
+                  <button id="button4"></button>
+                </div>
+              </div>
             </div>
-
-        </div>
+            ⏺
         <div class="flex-container">
         <article>
             <h3>Fall: Asian Music Night</h3>
@@ -133,6 +126,7 @@
 <script src="scripts/jquery-3.7.1.js"></script>
 <script src="scripts/hamburgermenu.js"></script>
 <script src="scripts/modal.js"></script>
+<script src="scripts/gallery.js"></script>
 </body>
 
 </html>

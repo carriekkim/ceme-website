@@ -230,7 +230,7 @@ footer {
   cursor: pointer;
 }
 .flex-cards{
-  display: flex
+  display: flex;
   flex-wrap: wrap;
 }
 .card {
