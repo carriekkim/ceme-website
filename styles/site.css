@@ -419,10 +419,18 @@ footer {
   margin: 1em 2em;
 }
 
+.page-content{
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 3px;
+}
+
 .page-content img{
   width:100%;
   height: auto;
   margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .accordion {
@@ -460,8 +468,8 @@ footer {
   transition: all 0.2s ease;
 }
 
-.open .icon {
-  transform: rotate(0);
+.rotate-icon {
+  transform: rotate(-90deg);
 }
 
 .hidden {
