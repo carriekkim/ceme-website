@@ -564,6 +564,32 @@ footer {
     opacity: 1;
   }
 
+  #fullimageA {
+    display: none;
+  }
+
+  #fullimageB {
+    display: none;
+  }
+
+  #fullimageC {
+    display: none;
+  }
+
+  #buttonA {
+    display: none;
+  }
+
+  #buttonB {
+    display: none;
+  }
+  #buttonC {
+    display: none;
+  }
+  #navmenu {
+    display: none;
+  }
+
   /* #fullimageA{
     z-index:3;
   }
