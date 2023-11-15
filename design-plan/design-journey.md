@@ -512,6 +512,7 @@ Document your site's layout.
 
 - TODO: interactivity idea 1
 - TODO: interactivity idea 2
+- Accordion interacvity for the instruments page:
 - TODO: ...
 
 
@@ -545,9 +546,7 @@ TODO: wide sketches and explanation
 > Explain why your design is appropriate for your audience.
 > Specifically, why does your content organization, navigation, and site design/layout meet the goals of your users?
 > How did you employ **design patterns** to improve the familiarity of the site for your audience?
-
-TODO: (Nana) 1 paragraph
-
+> The website design is appropriate for the audience because it combines visual principles as well as functionality to make the user experience a seemless one. The content is strategically grouped in a way such that, users intuitively know where to find infortmation. The interactive elements in the website make it more engaging and helps satisfy the learning goal of the audience. We wanted to make sure that the website is easy to use, and so we plan to use standard design principles in implementing these interactive elements. The content on the website is sufficient for anyone to learn and discover everyhting about the Cornell Eastern Music Ensemble.
 
 ## Interactivity Rationale (Milestone 2)
 > Describe the purpose of your proposed interactivity.

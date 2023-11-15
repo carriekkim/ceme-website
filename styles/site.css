@@ -255,8 +255,10 @@ footer {
 
 .next-prev .flex-container picture{
   display: inline-block;
+  max-width: 800px;
+  max-height: 500px;
   width: 800px;
-  height: 500px;
+  height: 100%;
   background-color: black;
 }
 .bottom-buttons .flex-container button{
@@ -278,6 +280,8 @@ footer {
 .flex-cards{
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 }
 .card {
   display: inline-block;
