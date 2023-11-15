@@ -151,6 +151,12 @@ main .flex-container aside h2{
 main .flex-container aside ul li {
   list-style: none;
 }
+
+main .fullwidth {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
 main article h2 {
   font-size: 35px;
   padding: 0 0;
@@ -465,13 +471,19 @@ footer {
     text-align: center;
   }
 
-  main .fullwidth img {
-    margin-left: 5px;
-    margin-right: 5px;
+  #originalA:hover{
+    opacity: 1;
   }
 
+  #originalB:hover{
+    opacity: 1;
+  }
 
-  #fullimageA{
+  #originalC:hover{
+    opacity: 1;
+  }
+
+  /* #fullimageA{
     z-index:3;
   }
   #fullimageA img {
@@ -485,3 +497,32 @@ footer {
     top: 145px;
     right: 25px;
   }
+
+  #fullimageB{
+    z-index:3;
+  }
+  #fullimageB img {
+    max-width: 100%;
+    width: 170px;
+    min-width: 430px;
+    max-width: 560px;
+  }
+
+  #buttonB {
+    top: 145px;
+    right: 25px;
+  }
+  #fullimageC{
+    z-index:3;
+  }
+  #fullimageC img {
+    max-width: 100%;
+    width: 170px;
+    min-width: 430px;
+    max-width: 560px;
+  }
+
+  #buttonC {
+    top: 145px;
+    right: 25px;
+  } */

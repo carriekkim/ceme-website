@@ -1,23 +1,26 @@
-$("#originalA").click(function () {
-    $("#fullimageA").removeClass("hidden");
-  });
 
-$('#buttonA').click(function () {
-    $("#fullimageA").addClass("hidden");
-  });
+if ($(document).width() > 850) {
+    $("#originalA").click(function () {
+        $("#fullimageA").removeClass("hidden");
+      });
 
-$("#originalB").click(function () {
-  $("#fullimageB").removeClass("hidden");
-});
+    $('#buttonA').click(function () {
+        $("#fullimageA").addClass("hidden");
+      });
 
-$('#buttonB').click(function () {
-    $("#fullimageB").addClass("hidden");
-});
+    $("#originalB").click(function () {
+      $("#fullimageB").removeClass("hidden");
+    });
 
-$("#originalC").click(function () {
-  $("#fullimageC").removeClass("hidden");
-});
+    $('#buttonB').click(function () {
+        $("#fullimageB").addClass("hidden");
+    });
 
-$('#buttonC').click(function () {
-    $("#fullimageC").addClass("hidden");
-});
+    $("#originalC").click(function () {
+      $("#fullimageC").removeClass("hidden");
+    });
+
+    $('#buttonC').click(function () {
+        $("#fullimageC").addClass("hidden");
+    });
+}
