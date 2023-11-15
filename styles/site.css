@@ -419,6 +419,11 @@ footer {
   margin: 1em 2em;
 }
 
+.page-content img{
+  width:100%;
+  height: auto;
+  margin-top: 20px;
+}
 
 .accordion {
   width: 100%;
@@ -445,6 +450,7 @@ footer {
 .accordion-content {
   /* display: none; */
   padding: 10px;
+  line-height: 1.5;
 }
 
 .icon {
