@@ -161,8 +161,15 @@ main .fullwidth img{
   padding-bottom:26px;
   max-width: 1000px;
   position: relative;
-  margin: 0px;
-  max-width: 46%;
+  max-width: 100%;
+}
+
+main .image-flex-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
 }
 
 footer {
@@ -229,6 +236,114 @@ footer {
 }
 
 #buttonA:hover{
+  color: #59010F;
+}
+
+#originalB:hover{
+  opacity: 0.7;
+}
+
+#fullimageB {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(72, 72, 72, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#fullimageB img {
+  margin:auto;
+  display:block;
+  justify-content: center;
+  height: auto;
+  max-height: 500px;
+  flex-grow: 0;
+  width: 170px;
+  min-width: 740px;
+  max-width: 1000px;
+}
+
+
+#fullimageB img:hover{
+  color: #bbb;
+}
+
+#buttonB {
+  position: absolute;
+  top: 30px;
+  right: 205px;
+  font-size: 40px;
+  font-weight: bold;
+  display: flex;
+  position: fixed;
+  font-size: 25px;
+  background-color: rgba(255, 255, 255, 0.496);
+  opacity: 0.7;
+  z-index: 3;
+  border:none;
+  cursor: pointer;
+}
+
+#buttonB:hover{
+  color: #59010F;
+}
+
+#originalC:hover{
+  opacity: 0.7;
+}
+
+#fullimageC {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(72, 72, 72, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#fullimageC img {
+  margin:auto;
+  display:block;
+  justify-content: center;
+  height: auto;
+  max-height: 500px;
+  flex-grow: 0;
+  width: 170px;
+  min-width: 740px;
+  max-width: 1000px;
+}
+
+
+#fullimageC img:hover{
+  color: #bbb;
+}
+
+#buttonC {
+  position: absolute;
+  top: 30px;
+  right: 205px;
+  font-size: 40px;
+  font-weight: bold;
+  display: flex;
+  position: fixed;
+  font-size: 25px;
+  background-color: rgba(255, 255, 255, 0.496);
+  opacity: 0.7;
+  z-index: 3;
+  border:none;
+  cursor: pointer;
+}
+
+#buttonC:hover{
   color: #59010F;
 }
 
@@ -344,6 +459,17 @@ footer {
     align-items: center;
     justify-content: space-between;
   }
+
+  main .image-flex-container {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  main .fullwidth img {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+
 
   #fullimageA{
     z-index:3;
