@@ -288,6 +288,26 @@ Laufey, this is a specific case of falling into the tiktok algorithm, what made 
 8. Have you ever encountered a website related to a musical group that left you feeling disappointed or frustrated? What happened?
 Not any that I recall.
 
+**Interviewee 4:**
+Chloe Yoo; she’s a junior student in PAM, leader of Shimtah (Korean traditional music club), and drummer of the Korean Church at Cornell’s praise team.
+
+1. Please tell me a bit about yourself. You may omit any personal or private information.
+She’s a junior at Cornell, majoring in PAM and she’s been a drummer since she was around 12 years old. She’s Korean, and she’s from New Jersey.
+2. Tell me about the kind of music you listen to and your experience in music.
+She mostly listens to rock or other songs that have heavy drum beats, but for her real-life experience she’s mostly associated with Korean traditional music (she plays multiple instruments in her club).
+3. Are you interested in finding associations relevant to your music tastes?
+Not really anymore, but before she was interested in finding associations so that she can play the drums or any relevant instrument which was how she ended up in the praise team and Shimtah.
+4. If so, how do you usually navigate to finding these associations?
+She navigated to Cornell Campus Groups and kept an eye out during ClubFest.
+5. Are there any websites related to music or culture you particularly admire? What do you like about them?
+She doesn’t have a specific website in mind but she did say that when she searches for music of her taste on Spotify she’s mostly attracted to relevant images that seem to fit the genre she is searching for.
+6. Are there any challenges or frustrations you commonly encounter when you look for an organization’s website?
+She recalled multiple instances where she would find a link to a club website on Campus Groups but the link was either broken or contained very empty content. Other times she would find a good website but there was only information explaining what the organization does, and not enough information about how to join them or to contact them.
+7. Can you recall a memorable experience where you discovered a new music group online. What made it memorable?
+She recently found a page where a certain singer (she does not recall the name) does collaborations with other non-famous musicians to do acapella covers of famous songs and worship songs, and the transition from the original music that didn’t seem suitable for acapella to a wonderful acapella performance was very engaging.
+8. Have you ever encountered a website related to a musical group that left you feeling disappointed or frustrated? What happened?
+She referred back to the examples she mentioned in question 6.
+
 
 ### Goals (Milestone 2)
 > Analyze your audience's goals from your notes above.
@@ -380,16 +400,22 @@ Plan your site's content.
 > You should list all types of content you planned to include (i.e. text, photos, images, etc.)
 > Briefly summarize the content; do not include the content here.
 
-- TODO: content 1
-- TODO: content 2
-- TODO: content 3
+- Member information (text)
+- Member/E-board photos (images)
+- Information about instruments (text)
+- Photographs of instruments (images)
+- Information about auditions (process, dates - text)
+- Information about performances (details, dates - text)
+- Photographs of past performances (images)
+- Page introduction information (text)
+
 - ...
 
 
 ### Content Justification (Milestone 2)
 > Explain (about a paragraph) why this content is the right content for your site's audience and how the content addresses their goals.
 
-TODO: justify your content decisions
+This content addresses the goals of the audience in that it provides them information about the club itself, as well as the relevant culture that the club attempts to promote. Through knowing about the musical culture, the audience can also find a general understanding of what the club is like. In addition, they can find information about how to join the club if their interest escalates, as well as locations and dates performances will be held if they want to enjoy the musical experience of the club as a non-member.
 
 
 ## Information Architecture (Milestone 2)
@@ -438,7 +464,41 @@ TODO: explain why the pages name make sense to the audience.
 ## Visual Theme (Milestone 2)
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences. Note the theme you selected for your site and why it's appropriate for the audience and their goals.
 
-TODO: theme ideas, rationale, and final theme
+1. Modern Chinese Culture theme (final theme)
+Colors: minimalistic colors of black and white and lighter colors (beige, paper-like pastel tones), one key bright color as a point color for the website
+
+Shapes: Simple square/rectangle shapes with sharp borders that give a simple, chill style that fits the cultural style
+
+Imagery: Chinese calligraphy, symbols, with a watercolor style, watercolor images in the background
+
+Typography: Watercolor calligraphy style fonts for headers or titles, more simple straight minimalistic fonts for longer text
+
+This theme is appropriate for the target audience because it effectively conveys the culture the club is based on, which delivers the overall style and atmosphere of the club. The simple and minimalistic style with reserved colors gives a calm vibe, which allows the user to focus more on the information presented in the website rather than getting distracted by flashy visuals.
+
+→ This theme provides a good insight into what the club’s style aims to be like, which is good for the audience in that they can have a general idea of what the club will be like at first glance without having to delve too deep.
+
+2. Imperial Chinese traditional theme
+Colors: various shades of red and yellow for key colors, whites for backgrounds, grays for text
+
+Shapes: Round colors that envision chinese lanterns and cuisine, rounded borders that fit the smooth chill vibe of the music
+
+Imagery: Images of luxurious chinese cultural items and residency images etc
+
+Typography: Royal-themed calligraphy style with sharper edges and longer strokes
+
+This theme is appropriate for the audience in that it represents Chinese culture more directly, so that it’s obvious for a newcoming user to see that the club is based on Chinese musical culture just through the visuals. The classy theme also provides the user with a general insight of the atmosphere of the club, which is more serious than casual.
+
+3. Chinese green tea theme
+4.
+Colors: Shades of dark and light greens that resemble tea leaves, darker browns and whites that envision chinese ceramics
+
+Shapes: Rounder shapes that resemble nature (leaves, flowers) and no borders to give a free and vibrant feel
+
+Imagery: Resembling nature and ceramics (tree branches, eastern painting style images)
+
+Typography: Bamboo-style fonts (like Papyrus) that fit in well with the nature style atmosphere for headers and key text, more thin, rounder fonts for longer paragraphs
+
+This theme is appropriate for the audience in that it focuses more on a natural, calmer vibe that fits the style of the musical culture the club promotes. The theme will make it easier for users to focus on the information presented rather than other visual effects, and the serene style of the website will also draw the audience to seek for more information.
 
 
 ## Design (Milestone 2)
