@@ -61,6 +61,7 @@ main {
 
 main h2{
   padding-bottom: 15px;
+  font-size: 35px;
 }
 main .flex-container{
   display: flex;
@@ -103,6 +104,11 @@ main .flex-container aside h2{
 }
 main .flex-container aside ul li {
   list-style: none;
+}
+main article h2 {
+  font-size: 35px;
+  padding: 0 0;
+  margin: 0 0;
 }
 
 main .fullwidth img{
@@ -178,6 +184,72 @@ footer {
 
 #buttonA:hover{
   color: #59010F;
+}
+
+.gallery {
+  margin-top: 3em;
+}
+
+.next-prev .flex-container{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.next-prev .flex-container button {
+  height: 500px;
+  width: 50px;
+  background-color:rgb(139, 139, 139);
+  outline: none;
+}
+.next-prev .flex-container button:hover{
+  background-color: #5f5f5f;
+  cursor: pointer;
+}
+
+.next-prev .flex-container picture{
+  display: inline-block;
+  max-width: 800px;
+  max-height: 500px;
+  width: 800px;
+  height: 100%;
+  background-color: black;
+}
+.bottom-buttons .flex-container button{
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin: 1em 0.2em 0;
+  outline: none;
+  border-radius: 50%;
+  background-color: rgb(139, 139, 139);
+}
+.active{
+  background-color: #5f5f5f
+}
+.bottom-buttons .flex-container button:hover{
+  background-color: #5f5f5f;
+  cursor: pointer;
+}
+.flex-cards{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  display: inline-block;
+  width: 200px;
+  height: 300px;
+  background-color: white;
+  align-items: center;
+  justify-content: center;
+  border-bottom: black solid;
+  border-top: black solid;
+  border-left: black solid;
+  border-right: black solid;
+  border-radius: 20px;
+  margin: 1em 2em;
 }
 
 @media (max-width: 850px) {
