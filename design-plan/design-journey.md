@@ -211,6 +211,16 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 
 4. TODO: add your own question
 
+5. TODO:
+
+6. TODO:
+
+7. Can you recall a memorable experience where you discovered a new music group online. What made it memorable?
+
+8. Have you ever encountered a website related to a musical group that left you feeling disappointed or frustrated? What happened?
+
+
+
 ...
 
 n. What haven't I asked you today that you think would be valuable for me to know?
@@ -552,8 +562,8 @@ TODO: wide sketches and explanation
 > Describe the purpose of your proposed interactivity.
 > Provide a brief rationale explaining how your proposed interactivity addresses the goals of your site's audience and enhances their user experience.
 
-TODO: 1 paragraph
-
+TODO: 1 para
+Accordion interactivity for the instruments page: This interactivity reduces the clutter on the screens of users, allowing them to select and display the content they wish to consume. This user-centered design also makes it easier for users on narrow screens since they do not have to do much vertical scrolling to have an idea of the full content of the page.
 
 ## Interactivity Plan (Milestone 2)
 > Now that you've designed your interactivity for your site, you need to plan how you will implement it.
@@ -561,6 +571,12 @@ TODO: 1 paragraph
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
 TODO: interactivity plan
+
+Accordion:
+initial state is a collapsed version of each accordion.
+pseudocode -
+    when the instrument name button is clicked (event): open the accordion
+        if the accordion is already open: toggle accordion close
 
 
 ## Client Feedback & Minutes (Milestone 2)
