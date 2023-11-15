@@ -138,6 +138,8 @@ main .flex-container aside{
   padding-top:0px;
   line-height: 1.5;
   margin-left:40px ;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 main .flex-container aside p, aside ul {
@@ -218,6 +220,8 @@ footer {
   width: 170px;
   min-width: 740px;
   max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
