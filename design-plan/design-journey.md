@@ -537,12 +537,20 @@ Document your site's layout.
 - 3. Our Events
 >Layout One Wide
 ![Layout One Wide ](images/oureventslayoutonewide.jpg)
+>Wide: For my wide version, I lined up the navigation bar menu to the right and the logo on the same line to the left so it is efficient to know the content organization. I decided to put carousel under the title as well as a main content with the events content and the Upcoming Events sharing the same flexbox. They are relevant, the users can think about attending their events as they are learning about what they’re reading. Finally, we ended with the footer of the contact information as the common design pattern. When we incorporate these types of choices, it is easy to reach the client’s goal of making their site accessible and visually appealing to the audience.
+>
 >Layout Two Wide
 ![Layout Two Wide ](images/oureventslayouttwowide.jpg)
+>Wide: For my wide version, I lined up the navigation bar menu to the right and the logo on the same line to the left so it is efficient to know the content organization. I decided to put carousel under the title. What is different about the layout is there is a flexbox of the categories of the upcoming events. This way, the audience can easily see the variety of their events. Next, I decided to put images and specific event on the left alternatively for a visually appealing design so that the images would intrigue the audience to attend those events. Finally, we ended with the footer of the contact information as the common design pattern. When we incorporate these types of choices, it is easy to reach the client’s goal of making their site accessible and visually appealing to the audience.
+>
 >Layout One Narrow
 ![Layout One Narrow ](images/oureventslayoutonenarrow.jpg)
+>Narrow: First, I started with the logo in the left, and added the hamburger menu button on the right. There is a carousel of images of CEME’s events to show their events before the text content. I then listed the events and a sidebar of upcoming events under for call to action events. Finally, there is a footer that says their contact information. Overall, I ensured that the margins are equally spaced out so it is not difficult for them to read and it will be easy for them understand the break in the section. I wanted to implement a typical narrow screen design with hamburger menu interactivity as well as carousel to evoke a sense of their goals and community through the images.
+>
 >Layout Two Narrow
 ![Layout Two Narrow ](images/oureventslaouttwonarrow.jpg)
+>Narrow: First, I started with the logo in the left, and added the hamburger menu button on the right. There is a carousel of images of CEME’s events to show their events before the text content. What was different was how we separated Upcoming Events into three categories of different bordered text. I listed their events with corresponding images and finally, there is a footer that says their contact information. I wanted to implement a typical narrow screen design with hamburger menu interactivity as well as carousel to evoke a sense of their goals and community through the images. The essential goal of this design is to distinctively showcase their events based on category.
+
 - 4. Join Us
 >![Join Us]()
 
