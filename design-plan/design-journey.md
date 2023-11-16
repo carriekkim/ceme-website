@@ -473,40 +473,42 @@ The page names make sense to our audience because of how descriptive the names a
 > Discuss several (more than two) ideas about styling your site's theme. Explain why the theme ideas are appropriate for your target audiences. Note the theme you selected for your site and why it's appropriate for the audience and their goals.
 
 1. Modern Chinese Culture theme (final theme)
-Colors: minimalistic colors of black and white and lighter colors (beige, paper-like pastel tones), one key bright color as a point color for the website
 
-Shapes: Simple square/rectangle shapes with sharp borders that give a simple, chill style that fits the cultural style
+    Colors: minimalistic colors of black and white and lighter colors (beige, paper-like pastel tones), one key bright color as a point color for the website
 
-Imagery: Chinese calligraphy, symbols, with a watercolor style, watercolor images in the background
+    Shapes: Simple square/rectangle shapes with sharp borders that give a simple, chill style that fits the cultural style
 
-Typography: Watercolor calligraphy style fonts for headers or titles, more simple straight minimalistic fonts for longer text
+    Imagery: Chinese calligraphy, symbols, with a watercolor style, watercolor images in the background
 
-This theme is appropriate for the target audience because it effectively conveys the culture the club is based on, which delivers the overall style and atmosphere of the club. The simple and minimalistic style with reserved colors gives a calm vibe, which allows the user to focus more on the information presented in the website rather than getting distracted by flashy visuals.
+    Typography: Watercolor calligraphy style fonts for headers or titles, more simple straight minimalistic fonts for longer text
 
-→ This theme provides a good insight into what the club’s style aims to be like, which is good for the audience in that they can have a general idea of what the club will be like at first glance without having to delve too deep.
+    This theme is appropriate for the target audience because it effectively conveys the culture the club is based on, which delivers the overall style and atmosphere of the club. The simple and minimalistic style with reserved colors gives a calm vibe, which allows the user to focus more on the information presented in the website rather than getting distracted by flashy visuals.
+
+    → This theme provides a good insight into what the club’s style aims to be like, which is good for the audience in that they can have a general idea of what the club will be like at first glance without having to delve too deep.
 
 2. Imperial Chinese traditional theme
-Colors: various shades of red and yellow for key colors, whites for backgrounds, grays for text
 
-Shapes: Round colors that envision chinese lanterns and cuisine, rounded borders that fit the smooth chill vibe of the music
+    Colors: various shades of red and yellow for key colors, whites for backgrounds, grays for text
 
-Imagery: Images of luxurious chinese cultural items and residency images etc
+    Shapes: Round colors that envision chinese lanterns and cuisine, rounded borders that fit the smooth chill vibe of the music
 
-Typography: Royal-themed calligraphy style with sharper edges and longer strokes
+    Imagery: Images of luxurious chinese cultural items and residency images etc
 
-This theme is appropriate for the audience in that it represents Chinese culture more directly, so that it’s obvious for a newcoming user to see that the club is based on Chinese musical culture just through the visuals. The classy theme also provides the user with a general insight of the atmosphere of the club, which is more serious than casual.
+    Typography: Royal-themed calligraphy style with sharper edges and longer strokes
+
+    This theme is appropriate for the audience in that it represents Chinese culture more directly, so that it’s obvious for a newcoming user to see that the club is based on Chinese musical culture just through the visuals. The classy theme also provides the user with a general insight of the atmosphere of the club, which is more serious than casual.
 
 3. Chinese green tea theme
 
-Colors: Shades of dark and light greens that resemble tea leaves, darker browns and whites that envision chinese ceramics
+    Colors: Shades of dark and light greens that resemble tea leaves, darker browns and whites that envision chinese ceramics
 
-Shapes: Rounder shapes that resemble nature (leaves, flowers) and no borders to give a free and vibrant feel
+    Shapes: Rounder shapes that resemble nature (leaves, flowers) and no borders to give a free and vibrant feel
 
-Imagery: Resembling nature and ceramics (tree branches, eastern painting style images)
+    Imagery: Resembling nature and ceramics (tree branches, eastern painting style images)
 
-Typography: Bamboo-style fonts (like Papyrus) that fit in well with the nature style atmosphere for headers and key text, more thin, rounder fonts for longer paragraphs
+    Typography: Bamboo-style fonts (like Papyrus) that fit in well with the nature style atmosphere for headers and key text, more thin, rounder fonts for longer paragraphs
 
-This theme is appropriate for the audience in that it focuses more on a natural, calmer vibe that fits the style of the musical culture the club promotes. The theme will make it easier for users to focus on the information presented rather than other visual effects, and the serene style of the website will also draw the audience to seek for more information.
+    This theme is appropriate for the audience in that it focuses more on a natural, calmer vibe that fits the style of the musical culture the club promotes. The theme will make it easier for users to focus on the information presented rather than other visual effects, and the serene style of the website will also draw the audience to seek for more information.
 
 
 ## Design (Milestone 2)
