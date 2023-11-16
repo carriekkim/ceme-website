@@ -498,7 +498,7 @@ Typography: Royal-themed calligraphy style with sharper edges and longer strokes
 This theme is appropriate for the audience in that it represents Chinese culture more directly, so that it’s obvious for a newcoming user to see that the club is based on Chinese musical culture just through the visuals. The classy theme also provides the user with a general insight of the atmosphere of the club, which is more serious than casual.
 
 3. Chinese green tea theme
-4.
+
 Colors: Shades of dark and light greens that resemble tea leaves, darker browns and whites that envision chinese ceramics
 
 Shapes: Rounder shapes that resemble nature (leaves, flowers) and no borders to give a free and vibrant feel
@@ -615,6 +615,60 @@ pseudocode -
     when the instrument name button is clicked (event): open the accordion
         if the accordion is already open: toggle accordion close
 
+> Hamburger menu plan:
+HTML elements:
+
+- Navbar1 for normal wide screen
+- Navbar2 for narrow screen
+- Div that contains the links of navbar2 that appear/disappear
+- Hamburger menu button on narrow screen
+
+CSS elements:
+
+- Hidden class for navbar2 on wide screens, navbar links before hamburger menu is clicked
+
+Initial state:
+
+- Widescreen: Hidden class added to navbar2 (which includes the hamburger button)
+- Narrow screen: Hidden class removed from navbar2 but added to links (so only hamburger button is visible)
+
+Pseudocode:
+Pseudocode to show/hide (toggle) the navigation menu (narrow screens):
+
+```
+when #menu is clicked (event):
+    if #link is .hidden:
+        remove .hidden from #link
+    else:
+        add .hidden to #link
+```
+
+Pseudocode to hide the hamburger button and show the navigation bar when the window is resized too wide:
+
+```
+when #navbar2 is resized (min width: 850px):
+    add .hidden to #navbar2
+    remove .hidden from #navbar1
+```
+
+Pseudocode to show the hamburger button and hide the navigation menu when the window is resized too narrow:
+
+```
+when #navbar1 is resized (max width: 850px):
+    add .hidden to #navbar1
+    remove .hidden from #navbar2
+```
+
+Pseudocode to show/hide the hamburger button and show/hide the navigation menu when page loads
+
+```
+if window is narrow (< 850px):
+    add .hidden to #navbar1
+    remove .hidden from #navbar2
+if window is wide (> 850px):
+    add .hidden to #navbar2
+    remove .hidden from #navbar1
+```
 
 ## Client Feedback & Minutes (Milestone 2)
 > You should meet with your client again to obtain feedback on your design.
