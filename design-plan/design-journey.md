@@ -211,9 +211,9 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 
 4. TODO: add your own question
 
-5. TODO:
+5. Are there any websites related to music or culture you particularly admire? What do you like about them?
 
-6. TODO:
+6. Are there any challenges or frustrations you commonly encounter when you look for an organization’s website?
 
 7. Can you recall a memorable experience where you discovered a new music group online. What made it memorable?
 
@@ -339,12 +339,10 @@ Goal 2: Get a feel of the club and its music through images and videos
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
   - The interactivity and responsiveness of the website immerse users into the website and will help create a memorable experience. This is because it is very easy and fluid to view the vast content that is present on the website
 
-Goal 3: TODO: brief title
+Goal 3: Make club information readily available
 
-TODO: design ideas and rationale
+Information about a club’s recruitment cycle and events are some of the most common pain points people have when looking at an organizations website. This is why we will put this information in multiple places throughout the site. We will have a side bar in the home where all the upcoming events will be placed, and we have dedicated tabs, for both events and recruitment. These as stated before are some of the most common pain points, and they will be addressed by strategically placing information about the club's recruitment cycle and events throughout the website. The inclusion of a prominent sidebar on the homepage, exclusively dedicated to displaying upcoming events, ensures immediate visibility. Additionally, having separate tabs dedicated specifically to events and recruitment will provide visitors with easy access to detailed information without navigating through multiple pages. The rationale behind this design approach lies in acknowledging the common frustrations faced by users seeking club-related information. By placing essential details in multiple easily accessible locations, such as the sidebar and dedicated tabs, we aim to alleviate these pain points and streamline the user experience.
 
-
-TODO: add as many goals as needed
 
 
 ### Audience (Milestone 2)
@@ -374,11 +372,11 @@ Include two screenshots of the home page for each site: narrow and wide.
 
     ![CME of New York narrow](images/websiteTwo-narrow.png)
 
-3. <TODO: website url>
+3. <https://www.yamatai-taiko.com/>
 
-    ![TODO: narrow screenshot description](TODO: narrow screenshot path)
+    ![Yamatai narrow](images/yamatai%20narrow.png)
 
-    ![TODO: wide screenshot description](TODO: wide screenshot path)
+    ![Yamatai wide](images/yamatai%20wide.png)
 
 
 ### Example Website 1 Review (Milestone 2)
@@ -398,7 +396,7 @@ Include two screenshots of the home page for each site: narrow and wide.
 > Review the website you identified above. (1 paragraph)
 > In your review, include a discussion common design patterns and interactivity in the site.
 
-TODO: website reflection/critique
+>The Yamatai website captures the essence of the group's musical energy. Upon entering the site, visitors are greeted by a striking image of the band engrossed in a lively performance, surrounded by dark, atmospheric colors that echo their style. The website offers an array of interactive features seamlessly integrated into an extensive navigation bar. This bar includes a search function and links to their social media platforms. The main page boasts an image carousel showcasing the band, along with videos providing insights into their journey and music. In terms of design, the site employs common and user-friendly patterns such as a collapsible hamburger menu for narrower screens, a standard top navigation bar, and engaging carousels and galleries across various pages. The website primarily focuses on achieving two key objectives: recruitment and portraying the team's culture. While it excels in showcasing the band's identity, its interactivity is somewhat limited, primarily revolving around galleries, carousels, and the navigation menu. External links to YouTube videos are available, although the site doesn't host the videos directly. Overall, the Yamatai website effectively communicates the group's vibe and musical essence while maintaining a user-friendly interface, fulfilling its goals of recruitment and team culture representation despite limited interactivity beyond galleries and links.
 
 
 ## Content Planning (Milestone 2)
@@ -461,14 +459,14 @@ This content addresses the goals of the audience in that it provides them inform
 ### Navigation (Milestone 2)
 > Please list the pages you will include in your website's navigation.
 
-- TODO: page 1
-- TODO: page 2
-- TODO: page 3
-- ...
+- Home
+- Instruments
+- Our Events
+- Join Us!
 
 > Explain why the names of these pages make sense for your site's audience.
 
-TODO: explain why the pages name make sense to the audience.
+The page names make sense to our audience because of how descriptive the names are. There are clear goals embedded in the titles of the pages. The home page includes general information about the group, the Instruments page has all the instruments the ensemble plays, and the Our Events! page has all the upcoming events with explanations on all of them, and the Join Us! page talks about the process used to join the ensemble. Since our audience would be people who are usually interested in joining, the website has all the information needed for them to see if they would be interested in applying.
 
 
 ## Visual Theme (Milestone 2)
@@ -520,10 +518,10 @@ Document your site's layout.
 > Briefly explain idea each idea and provide a brief rationale for how the interactivity enhances the site's functionality for the audience.
 > Note: You may find it easier to sketch for brainstorming. That's fine too. Do whatever you need to do to explore your ideas.
 
-- TODO: interactivity idea 1
-- TODO: interactivity idea 2
-- Accordion interacvity for the instruments page:
-- TODO: ...
+- Hamburger Menu: this is a very widely used feature across narrow website designs, and users are very comfortable using this since they use it in so many more different places.
+- Accordion: an accordion would be implemeted because we have clear criteria for the levels of the accordion in the instruments page, and it makes that page neater by not being just long,
+- Carousel: we have image carousels because we have many pictures we want to show and implementing this will allow us to.
+- Modal: we are implementing a modal for certain images since it allows users to see the images in a bigger setting.
 
 
 ### Layout Exploration (Milestone 2)
