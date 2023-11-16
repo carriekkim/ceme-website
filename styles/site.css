@@ -433,10 +433,6 @@ footer {
   margin-bottom: 20px;
 }
 
-.accordion {
-  width: 100%;
-}
-
 .accordion-item {
   background-color: #fff;
   margin-bottom: 10px;
@@ -452,6 +448,11 @@ footer {
   justify-content: space-between;
   align-items: center;
   gap: 15px;
+  width: 100%;
+  border: none;
+  padding: 10px;
+  background-color: #fff;
+  font-size: 16pt;
 
 }
 
@@ -459,6 +460,7 @@ footer {
   /* display: none; */
   padding: 10px;
   line-height: 1.5;
+  background-color: #fff;
 }
 
 .icon {
