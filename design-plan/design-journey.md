@@ -573,7 +573,7 @@ TODO: narrow sketches and explanation
 >Narrow
 ![Narrow ](images/oureventsfinalnarrow.jpg)
 - 4. Join Us
->![Join Us]()
+>![Join Us](images/joinus_narrow.png)
 
 
 **Wide Design:**
@@ -588,7 +588,7 @@ TODO: wide sketches and explanation
 >Wide
 ![Wide ](images/oureventsfinalwide.jpg)
 - 4. Join Us
->![Join Us]()
+>![Join Us](images/joinus_wide.png)
 
 
 ### Design Rationale (Milestone 2)
