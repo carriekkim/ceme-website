@@ -337,7 +337,7 @@ Goal 2: Get a feel of the club and its music through images and videos
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
   - The interactivity and responsiveness of the website immerse users into the website and will help create a memorable experience. This is because it is very easy and fluid to view the vast content that is present on the website
 
-Goal 3: Make club information readily available
+Goal 3: Make events/recruitment information readily available
 
 Information about a club’s recruitment cycle and events are some of the most common pain points people have when looking at an organizations website. This is why we will put this information in multiple places throughout the site. We will have a side bar in the home where all the upcoming events will be placed, and we have dedicated tabs, for both events and recruitment. These as stated before are some of the most common pain points, and they will be addressed by strategically placing information about the club's recruitment cycle and events throughout the website. The inclusion of a prominent sidebar on the homepage, exclusively dedicated to displaying upcoming events, ensures immediate visibility. Additionally, having separate tabs dedicated specifically to events and recruitment will provide visitors with easy access to detailed information without navigating through multiple pages. The rationale behind this design approach lies in acknowledging the common frustrations faced by users seeking club-related information. By placing essential details in multiple easily accessible locations, such as the sidebar and dedicated tabs, we aim to alleviate these pain points and streamline the user experience.
 
@@ -530,7 +530,11 @@ Document your site's layout.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
 - 1. Homepage
->![Homepage]()
+![Layout Wide ](images/home_wide_sketch.jpg)
+>Wide: for the wide version on the right side of the header there is the navigation, and on the left side the logo. we have an about us section as the first thing, alongside a side bar that has all the upcoming events. under that there will be a carousel of team images, and under that carousel we'll have e-board member cards.
+![Layout Narrow ](images/home_narrow_sketch.jpg)
+>Narrow: for the narrow version on the right side of the header there is the haburger menu, and on the left side the logo. we have an about us section as the first thing, the upcoming events under that. and under that there will be a carousel of team images, and under that carousel we'll have e-board member cards.
+
 - 2. Instruments
 >![Instruments]()
 - 3. Our Events
@@ -565,7 +569,7 @@ Document your site's layout.
 TODO: narrow sketches and explanation
 
 - 1. Homepage
->![Homepage]()
+>![Homepage](images/home_narrow_final.png)
 - 2. Instruments
 >![Instruments]()
 - 3. Our Events
@@ -580,7 +584,7 @@ TODO: narrow sketches and explanation
 TODO: wide sketches and explanation
 
 - 1. Homepage
->![Homepage]()
+>![Homepage](images/home_wide_final.png)
 - 2. Instruments
 >![Instruments]()
 - 3. Our Events
