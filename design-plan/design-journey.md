@@ -536,10 +536,8 @@ Document your site's layout.
 >Wide: for the wide version on the right side of the header there is the navigation, and on the left side the logo. we have an about us section as the first thing, alongside a side bar that has all the upcoming events. under that there will be a carousel of team images, and under that carousel we'll have e-board member cards.
 ![Layout Narrow ](images/home_narrow_sketch.jpg)
 >Narrow: for the narrow version on the right side of the header there is the haburger menu, and on the left side the logo. we have an about us section as the first thing, the upcoming events under that. and under that there will be a carousel of team images, and under that carousel we'll have e-board member cards.
-
-- 2. Instruments
->![Instruments]()
-- 3. Our Events
+>
+>Our Events
 >Layout One Wide
 ![Layout One Wide ](images/oureventslayoutonewide.jpg)
 >Wide: For my wide version, I lined up the navigation bar menu to the right and the logo on the same line to the left so it is efficient to know the content organization. I decided to put carousel under the title as well as a main content with the events content and the Upcoming Events sharing the same flexbox. They are relevant, the users can think about attending their events as they are learning about what they’re reading. Finally, we ended with the footer of the contact information as the common design pattern. When we incorporate these types of choices, it is easy to reach the client’s goal of making their site accessible and visually appealing to the audience.
@@ -557,10 +555,6 @@ Document your site's layout.
 >Narrow: First, I started with the logo in the left, and added the hamburger menu button on the right. There is a carousel of images of CEME’s events to show their events before the text content. What was different was how we separated Upcoming Events into three categories of different bordered text. I listed their events with corresponding images and finally, there is a footer that says their contact information. I wanted to implement a typical narrow screen design with hamburger menu interactivity as well as carousel to evoke a sense of their goals and community through the images. The essential goal of this design is to distinctively showcase their events based on category.
 >
 >The rest of our pages implemented the same layout format. The only difference is that for the Instruments page, we implemented the accordian with the images and content within the bars. For the Audition page, we used the modal for each image to give the audience an idea about the audition process.
-
-- 4. Join Us
->![Join Us]()
-
 
 ### Final Design (Milestone 2)
 > Include the final sketches for each of your pages.
