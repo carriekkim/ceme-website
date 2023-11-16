@@ -207,9 +207,9 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 
 2. Tell me about the kind of music you listen to and your experience in music.
 
-3. TODO: add your own question
+3. Are you interested in finding associations relevant to your music tastes?
 
-4. TODO: add your own question
+4. If so, how do you usually navigate to finding these associations?
 
 5. Are there any websites related to music or culture you particularly admire? What do you like about them?
 
@@ -236,8 +236,7 @@ n. What haven't I asked you today that you think would be valuable for me to kno
 
 **Interviewee 1:**
 
-Interviewee 1: Katherine
-She is a sophomore studying Anthropology at Cornell.
+Interviewee 1: Katherine - She is a sophomore studying Anthropology at Cornell.
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 She is a sophomore at Cornell, studying Anthropology and planning to do pre-dental. She has been playing violin since third grade and she was part of her school ensemble since middle school.
@@ -518,7 +517,7 @@ Document your site's layout.
 > Note: You may find it easier to sketch for brainstorming. That's fine too. Do whatever you need to do to explore your ideas.
 
 - Hamburger Menu: this is a very widely used feature across narrow website designs, and users are very comfortable using this since they use it in so many more different places.
-- Accordion: an accordion would be implemeted because we have clear criteria for the levels of the accordion in the instruments page, and it makes that page neater by not being just long,
+- Accordion: an accordion would be implemented because we have clear criteria for the levels of the accordion in the instruments page, and it makes that page neater by not being just long,
 - Carousel: we have image carousels because we have many pictures we want to show and implementing this will allow us to.
 - Modal: we are implementing a modal for certain images since it allows users to see the images in a bigger setting.
 
@@ -595,7 +594,8 @@ TODO: wide sketches and explanation
 > Explain why your design is appropriate for your audience.
 > Specifically, why does your content organization, navigation, and site design/layout meet the goals of your users?
 > How did you employ **design patterns** to improve the familiarity of the site for your audience?
-> The website design is appropriate for the audience because it combines visual principles as well as functionality to make the user experience a seemless one. The content is strategically grouped in a way such that, users intuitively know where to find infortmation. The interactive elements in the website make it more engaging and helps satisfy the learning goal of the audience. We wanted to make sure that the website is easy to use, and so we plan to use standard design principles in implementing these interactive elements. The content on the website is sufficient for anyone to learn and discover everyhting about the Cornell Eastern Music Ensemble.
+
+The website design is appropriate for the audience because it combines visual principles as well as functionality to make the user experience a seemless one. The content is strategically grouped in a way such that, users intuitively know where to find infortmation. The interactive elements in the website make it more engaging and helps satisfy the learning goal of the audience. We wanted to make sure that the website is easy to use, and so we plan to use standard design principles in implementing these interactive elements. The content on the website is sufficient for anyone to learn and discover everyhting about the Cornell Eastern Music Ensemble.
 
 ## Interactivity Rationale (Milestone 2)
 > Describe the purpose of your proposed interactivity.
@@ -603,7 +603,7 @@ TODO: wide sketches and explanation
 
 We implemented modals, accordions, hamburger menus, and carousels as interactivity features.
 The modal allows users to view images more clearly and closely on browsers on which they can’t zoom in. After viewing the general layout of images, they can choose which image to view closely and this interactivity allows them to do so.
-This accordion reduces the clutter on the screens of users, allowing them to select and display the content they wish to consume. This user-centered design also makes it easier for users on narrow screens since they do not have to do much vertical scrolling to have an idea of the full content of the page.
+The accordion reduces the clutter on the screens of users, allowing them to select and display the content they wish to consume. This user-centered design also makes it easier for users on narrow screens since they do not have to do much vertical scrolling to have an idea of the full content of the page.
 The hamburger menu effectively shifts the layout of the navigation bar based on whether the user is viewing the content on wide/narrow screens. By hiding the navigation bar in the hamburger menu on a narrow screen the user has more space on their screen to actually view the content of the page.
 The carousel allows the user to shift through multiple images on the page without cluttering the page too much, as it condenses multiple images into a single feature.
 
