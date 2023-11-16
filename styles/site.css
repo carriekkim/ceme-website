@@ -138,6 +138,8 @@ main .flex-container aside{
   padding-top:0px;
   line-height: 1.5;
   margin-left:40px ;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 main .flex-container aside p, aside ul {
@@ -218,6 +220,8 @@ footer {
   width: 170px;
   min-width: 740px;
   max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
@@ -355,17 +359,24 @@ footer {
 
 .gallery {
   margin-top: 3em;
+  width: 100%;
 }
 
 .next-prev .flex-container{
+  flex-direction: row;
   justify-content: center;
   align-items: center;
   display: flex;
+  width: 100%;
+  max-height: 500px;
 }
 
 .next-prev .flex-container button {
-  height: 500px;
-  width: 50px;
+  /* height: 100%; */
+  /* width: 50px; */
+  width: 10%;
+  max-width: 50px;
+  padding: 18% 1%;
   background-color:rgb(139, 139, 139);
   outline: none;
 }
@@ -378,9 +389,16 @@ footer {
   display: inline-block;
   max-width: 800px;
   max-height: 500px;
-  width: 800px;
-  height: 100%;
+  width: 100%;
+  height: auto;
   background-color: black;
+}
+.next-prev .flex-container picture img{
+  width: 100%;
+  height: auto;
+  max-height: 500px;
+  /* min-width: 350px; */
+  max-width: 750px;
 }
 .bottom-buttons .flex-container button{
   display: inline-block;
@@ -397,6 +415,9 @@ footer {
 .bottom-buttons .flex-container button:hover{
   background-color: #5f5f5f;
   cursor: pointer;
+}
+.bottom-buttons .flex-container{
+  flex-direction: row;
 }
 .flex-cards{
   display: flex;
@@ -417,6 +438,13 @@ footer {
   border-right: black solid;
   border-radius: 20px;
   margin: 1em 2em;
+}
+.card picture img{
+  padding-top: 10px;
+  max-width: 150px;
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
 }
 
 .page-content{
@@ -536,6 +564,32 @@ footer {
 
   #originalC:hover{
     opacity: 1;
+  }
+
+  #fullimageA {
+    display: none;
+  }
+
+  #fullimageB {
+    display: none;
+  }
+
+  #fullimageC {
+    display: none;
+  }
+
+  #buttonA {
+    display: none;
+  }
+
+  #buttonB {
+    display: none;
+  }
+  #buttonC {
+    display: none;
+  }
+  #navmenu {
+    display: none;
   }
 
   /* #fullimageA{

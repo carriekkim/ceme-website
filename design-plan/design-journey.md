@@ -323,13 +323,12 @@ She referred back to the examples she mentioned in question 6.
 > Analyze your audience's goals from your notes above.
 > List each goal below. There is no specific number of goals required for this, but you need enough to do the job (Hint: It's more than 1 and probably more than 2).
 
-Goal 1: TODO: brief title
+Goal 1: : Learn about the eastern music and culture
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
   - The main focus is to make the eastern music style and culture easily understandable for the users. We will need to use visual aids such as pictures and videos of their performances and specific instruments to show their unique styles. These visual elements will help them quickly learn brief details about their music style without feeling overwhelmed and bored fo the content. Furthermore, there shouldn’t be too much text content and incorporate accordians so the audience can choose whether to look at them or not.
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
   - The website design aims to cater to the needs of the musical and cultural explorer in a clear and concise manner. From Interviewee One, who have a broad range of musical genres, she hopes to explore new styles and find the same community. As a result, visual aids and interactivity tools are essential to make the content easy to navigate without feeling overwhelmed.
-
 
 
 Goal 2: Get a feel of the club and its music through images and videos
@@ -533,7 +532,21 @@ Document your site's layout.
 > Include some of your interactivity ideas in your sketches.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
-TODO: layout exploration sketches + explanation
+- 1. Homepage
+>![Homepage]()
+- 2. Instruments
+>![Instruments]()
+- 3. Our Events
+>Layout One Wide
+![Layout One Wide ](images/oureventslayoutonewide.jpg)
+>Layout Two Wide
+![Layout Two Wide ](images/oureventslayouttwowide.jpg)
+>Layout One Narrow
+![Layout One Narrow ](images/oureventslayoutonenarrow.jpg)
+>Layout Two Narrow
+![Layout Two Narrow ](images/oureventslaouttwonarrow.jpg)
+- 4. Join Us
+>![Join Us]()
 
 
 ### Final Design (Milestone 2)
@@ -546,10 +559,30 @@ TODO: layout exploration sketches + explanation
 
 TODO: narrow sketches and explanation
 
+- 1. Homepage
+>![Homepage]()
+- 2. Instruments
+>![Instruments]()
+- 3. Our Events
+>Narrow
+![Narrow ](images/oureventsfinalnarrow.jpg)
+- 4. Join Us
+>![Join Us]()
+
 
 **Wide Design:**
 
 TODO: wide sketches and explanation
+
+- 1. Homepage
+>![Homepage]()
+- 2. Instruments
+>![Instruments]()
+- 3. Our Events
+>Wide
+![Wide ](images/oureventsfinalwide.jpg)
+- 4. Join Us
+>![Join Us]()
 
 
 ### Design Rationale (Milestone 2)

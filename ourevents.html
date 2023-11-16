@@ -12,15 +12,15 @@
 
 <body>
     <header>
-        <div>
+        <div id="navbar1">
             <nav>
                 <ul>
                     <li>
-                        <picture>
-                          <img src="images/ceme_logo.png" alt="">
-                        </picture>
-                        <!-- Source: Client provided content -->
-                      </li>
+                      <picture>
+                        <img src="images/ceme_logo.png" alt="">
+                      </picture>
+                      <!-- Source: Client provided content -->
+                    </li>
                     <li>
                     <a href="index.html">Home</a>
                     </li>
@@ -35,6 +35,34 @@
                   </li>
                 </ul>
             </nav>
+        </div>
+
+        <div id="navbar2" class="hidden">
+            <picture>
+              <img src="images/ceme_logo.png" alt="">
+            </picture>
+
+            <div id="hamburger-menu">
+              <button id="hamburger">
+                ≡
+              </button>
+              <nav id="links" class="hidden">
+                  <ul>
+                      <li>
+                      <a href="index.html">Home</a>
+                      </li>
+                      <li>
+                          <a href="instruments.html">Instruments</a>
+                      </li>
+                      <li>
+                        <a href="ourevents.html">Our Events</a>
+                      </li>
+                      <li>
+                        <a href="joinus.html">Join Us!</a>
+                    </li>
+                  </ul>
+              </nav>
+            </div>
         </div>
     </header>
 
@@ -70,7 +98,6 @@
                 </div>
               </div>
             </div>
-            ⏺
         <div class="flex-container">
         <article>
             <h3>Fall: Asian Music Night</h3>
@@ -130,9 +157,11 @@
       <p>This organization is a registered student organization of Cornell University.</p>
 </footer>
 <script src="scripts/jquery-3.7.1.js"></script>
-<script src="scripts/hamburgermenu.js"></script>
 <script src="scripts/modal.js"></script>
 <script src="scripts/gallery.js"></script>
+<script src="scripts/navbar.js"></script>
+<script src="scripts/hamburger.js"></script>
+<script src="scripts/accordion.js"></script>
 </body>
 
 </html>

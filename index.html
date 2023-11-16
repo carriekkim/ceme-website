@@ -11,32 +11,60 @@
 </head>
 
 <body>
-    <header>
-        <div>
-            <nav>
-                <ul>
-                    <li>
-                        <picture>
-                          <img src="images/ceme_logo.png" alt="">
-                        </picture>
-                        <!-- Source: Client provided content -->
-                      </li>
-                    <li>
-                    <a href="index.html">Home</a>
-                    </li>
-                    <li>
-                        <a href="instruments.html">Instruments</a>
-                    </li>
-                    <li>
-                      <a href="ourevents.html">Our Events</a>
-                    </li>
-                    <li>
-                      <a href="joinus.html">Join Us!</a>
+  <header>
+    <div id="navbar1">
+        <nav>
+            <ul>
+                <li>
+                  <picture>
+                    <img src="images/ceme_logo.png" alt="">
+                  </picture>
+                  <!-- Source: Client provided content -->
+                </li>
+                <li>
+                <a href="index.html">Home</a>
+                </li>
+                <li>
+                    <a href="instruments.html">Instruments</a>
+                </li>
+                <li>
+                  <a href="ourevents.html">Our Events</a>
+                </li>
+                <li>
+                  <a href="joinus.html">Join Us!</a>
+              </li>
+            </ul>
+        </nav>
+    </div>
+
+    <div id="navbar2" class="hidden">
+        <picture>
+          <img src="images/ceme_logo.png" alt="">
+        </picture>
+
+        <div id="hamburger-menu">
+          <button id="hamburger">
+            ≡
+          </button>
+          <nav id="links" class="hidden">
+              <ul>
+                  <li>
+                  <a href="index.html">Home</a>
                   </li>
-                </ul>
-            </nav>
+                  <li>
+                      <a href="instruments.html">Instruments</a>
+                  </li>
+                  <li>
+                    <a href="ourevents.html">Our Events</a>
+                  </li>
+                  <li>
+                    <a href="joinus.html">Join Us!</a>
+                </li>
+              </ul>
+          </nav>
         </div>
-    </header>
+    </div>
+</header>
     <main>
       <div class="flex-container">
         <article>
@@ -86,7 +114,7 @@
           <div class="flex-container">
             <button id="prev-button">◀</button>
             <picture id="image1">
-              <img src="images/home_teampic1.jpg" alt="Image of the team after an ensemble" width="667" height="500">
+              <img src="images/home_teampic1.jpg" alt="Image of the team after an ensemble" >
             </picture>
             <picture id="image2" class="hidden">
               <img src="images/home_teampic2.jpg" alt="Image of the team after an ensemble" width="750" height="500">
@@ -113,49 +141,65 @@
         <h2>E-board</h2>
         <div class="flex-cards">
           <div class="card">
-            <p>image</p>
+            <picture>
+              <img src="images/home_nala.png" alt="picture of Ray Chang" width="150" height="150">
+            </picture>
             <h3>Co-President</h3>
             <h4>Nala Peng</h4>
             <p>major</p>
           </div>
           <div class="card">
-            <p>image</p>
+            <picture>
+              <img src="images/home_alex.png" alt="picture of Ray Chang" width="150" height="150">
+            </picture>
             <h3>Co-President</h3>
             <h4>Alex Tan</h4>
             <p>major</p>
           </div>
           <div class="card">
-            <p>image</p>
+            <picture>
+              <img src="images/home_ray.png" alt="picture of Ray Chang" width="150" height="150">
+            </picture>
             <h3>Event Curator</h3>
             <h4>Ray Chang</h4>
             <p>major</p>
           </div>
           <div class="card">
-            <p>image</p>
+            <picture>
+              <img src="images/home_ella.png" alt="picture of Ray Chang" width="150" height="150">
+            </picture>
             <h3>Event Curator</h3>
             <h4>Ella Chen</h4>
             <p>major</p>
           </div>
           <div class="card">
-            <p>image</p>
+            <picture>
+              <img src="images/home_daisy.png" alt="picture of Ray Chang" width="150" height="150">
+            </picture>
             <h3>Publicity Chair</h3>
             <h4>Daisy Li</h4>
             <p>major</p>
           </div>
           <div class="card">
-            <p>image</p>
+            <picture>
+              <img src="images/home_hibiscus.png" alt="picture of Ray Chang" width="150" height="150">
+            </picture>
             <h3>Publicity Chair</h3>
             <h4>Hibiscus Chen</h4>
             <p>major</p>
           </div>
           <div class="card">
-            <p>image</p>
+            <picture>
+              <img src="images/home_emily.png" alt="picture of Ray Chang" width="150" height="150">
+            </picture>
             <h3>Treasurer</h3>
             <h4>Emily Shen</h4>
             <p>major</p>
           </div>
           <div class="card">
-            <p>image</p>
+            <picture>
+              <img src="images/home_carina.png" alt="picture of Ray Chang" width="150" height="150">
+            </picture>
             <h3>Treasurer</h3>
             <h4>Carina Lyu</h4>
             <p>major</p>
@@ -171,9 +215,11 @@
         <p>This organization is a registered student organization of Cornell University.</p>
   </footer>
   <script src="scripts/jquery-3.7.1.js"></script>
-  <script src="scripts/hamburgermenu.js"></script>
   <script src="scripts/modal.js"></script>
   <script src="scripts/gallery.js"></script>
+  <script src="scripts/navbar.js"></script>
+  <script src="scripts/hamburger.js"></script>
+  <script src="scripts/accordion.js"></script>
   </body>
 
 
