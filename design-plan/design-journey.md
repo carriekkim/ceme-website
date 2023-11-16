@@ -714,6 +714,29 @@ if window is wide (> 850px):
     add .hidden to #navbar2
     remove .hidden from #navbar1
 ```
+>carousel plan
+HTML:
+for the carousel we will put a button, images, and another button in that order in a div, we will give all but one image the hidden class. below that we will put 4 buttons to match the number of images in a div, and we give one of them the 'active' class.
+
+CSS:
+we will put the two divs in a big flexbox in the column direction, in the div with the images we turn it into a flexbox and set it as row, and we do the same for the bottom div, we change the appearance of the buttons to better match the sketches, make the active class, and the hidden class.
+
+Javascript: Pseudocode
+```
+when #next/prev button pressed
+    if #image has class active
+        removeclass active
+        addclass active to new image
+        hide this image
+        remove class hidden from correct image
+
+when #bottom button pressed
+    removeclass active from the other buttons
+    addclass active for the clicked button
+
+    hide all images
+    remove hidden from the selected button's image
+```
 
 ## Client Feedback & Minutes (Milestone 2)
 > You should meet with your client again to obtain feedback on your design.
