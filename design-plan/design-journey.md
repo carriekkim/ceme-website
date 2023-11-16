@@ -348,7 +348,7 @@ Information about a club’s recruitment cycle and events are some of the most c
 > Briefly explain your site's audience.
 > Be specific and justify why this audience is a **cohesive** group with regard to your website.
 
-TODO: site's _cohesive_ audience
+The audience is people who are searching for information about the CEME club specifically (trying to gauge the vibes, style, performances or audition information) or searching for organizations that fit their taste of music in Eastern/Asian cultural music and instruments. The people that find this website can be people that were interested in the club from the beginning, but they can also be people that didn’t know about the club but trickled to the website through their personal keywords such as Eastern music or Cornell Eastern music organizations. Either way, the website provides information that promotes their theme of Eastern music as well as club-oriented information such as the members, event dates, and audition information, so the audience is cohesive regarding the content of the website.
 
 
 ## Website Design Exploration (Milestone 2)
