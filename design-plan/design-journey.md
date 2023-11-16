@@ -207,9 +207,9 @@ You can use bullet points and lists, or full paragraphs, or a combo, whichever i
 
 2. Tell me about the kind of music you listen to and your experience in music.
 
-3. TODO: add your own question
+3. Are you interested in finding associations relevant to your music tastes?
 
-4. TODO: add your own question
+4. If so, how do you usually navigate to finding these associations?
 
 5. Are there any websites related to music or culture you particularly admire? What do you like about them?
 
@@ -236,8 +236,7 @@ n. What haven't I asked you today that you think would be valuable for me to kno
 
 **Interviewee 1:**
 
-Interviewee 1: Katherine
-She is a sophomore studying Anthropology at Cornell.
+Interviewee 1: Katherine - She is a sophomore studying Anthropology at Cornell.
 
 1. Please tell me a bit about yourself. You may omit any personal or private information.
 She is a sophomore at Cornell, studying Anthropology and planning to do pre-dental. She has been playing violin since third grade and she was part of her school ensemble since middle school.
@@ -348,7 +347,7 @@ Information about a club’s recruitment cycle and events are some of the most c
 > Briefly explain your site's audience.
 > Be specific and justify why this audience is a **cohesive** group with regard to your website.
 
-TODO: site's _cohesive_ audience
+The audience is people who are searching for information about the CEME club specifically (trying to gauge the vibes, style, performances or audition information) or searching for organizations that fit their taste of music in Eastern/Asian cultural music and instruments. The people that find this website can be people that were interested in the club from the beginning, but they can also be people that didn’t know about the club but trickled to the website through their personal keywords such as Eastern music or Cornell Eastern music organizations. Either way, the website provides information that promotes their theme of Eastern music as well as club-oriented information such as the members, event dates, and audition information, so the audience is cohesive regarding the content of the website.
 
 
 ## Website Design Exploration (Milestone 2)
@@ -360,9 +359,11 @@ Include two screenshots of the home page for each site: narrow and wide.
 **We'll refer to these are your "example websites."**
 
 1. <https://www.cuorchestra.org>
-
+    >Narrow
+    >
     ![CU Orchestra Narrow](images/websiteonenarrow.png)
-
+    >Wide
+    >
     ![CU Orchestra Wide](images/websiteonewide.png)
 
 2. <http://www.chinesemusicensemble.org>
@@ -518,7 +519,7 @@ Document your site's layout.
 > Note: You may find it easier to sketch for brainstorming. That's fine too. Do whatever you need to do to explore your ideas.
 
 - Hamburger Menu: this is a very widely used feature across narrow website designs, and users are very comfortable using this since they use it in so many more different places.
-- Accordion: an accordion would be implemeted because we have clear criteria for the levels of the accordion in the instruments page, and it makes that page neater by not being just long,
+- Accordion: an accordion would be implemented because we have clear criteria for the levels of the accordion in the instruments page, and it makes that page neater by not being just long,
 - Carousel: we have image carousels because we have many pictures we want to show and implementing this will allow us to.
 - Modal: we are implementing a modal for certain images since it allows users to see the images in a bigger setting.
 
@@ -537,12 +538,22 @@ Document your site's layout.
 - 3. Our Events
 >Layout One Wide
 ![Layout One Wide ](images/oureventslayoutonewide.jpg)
+>Wide: For my wide version, I lined up the navigation bar menu to the right and the logo on the same line to the left so it is efficient to know the content organization. I decided to put carousel under the title as well as a main content with the events content and the Upcoming Events sharing the same flexbox. They are relevant, the users can think about attending their events as they are learning about what they’re reading. Finally, we ended with the footer of the contact information as the common design pattern. When we incorporate these types of choices, it is easy to reach the client’s goal of making their site accessible and visually appealing to the audience.
+>
 >Layout Two Wide
 ![Layout Two Wide ](images/oureventslayouttwowide.jpg)
+>Wide: For my wide version, I lined up the navigation bar menu to the right and the logo on the same line to the left so it is efficient to know the content organization. I decided to put carousel under the title. What is different about the layout is there is a flexbox of the categories of the upcoming events. This way, the audience can easily see the variety of their events. Next, I decided to put images and specific event on the left alternatively for a visually appealing design so that the images would intrigue the audience to attend those events. Finally, we ended with the footer of the contact information as the common design pattern. When we incorporate these types of choices, it is easy to reach the client’s goal of making their site accessible and visually appealing to the audience.
+>
 >Layout One Narrow
 ![Layout One Narrow ](images/oureventslayoutonenarrow.jpg)
+>Narrow: First, I started with the logo in the left, and added the hamburger menu button on the right. There is a carousel of images of CEME’s events to show their events before the text content. I then listed the events and a sidebar of upcoming events under for call to action events. Finally, there is a footer that says their contact information. Overall, I ensured that the margins are equally spaced out so it is not difficult for them to read and it will be easy for them understand the break in the section. I wanted to implement a typical narrow screen design with hamburger menu interactivity as well as carousel to evoke a sense of their goals and community through the images.
+>
 >Layout Two Narrow
 ![Layout Two Narrow ](images/oureventslaouttwonarrow.jpg)
+>Narrow: First, I started with the logo in the left, and added the hamburger menu button on the right. There is a carousel of images of CEME’s events to show their events before the text content. What was different was how we separated Upcoming Events into three categories of different bordered text. I listed their events with corresponding images and finally, there is a footer that says their contact information. I wanted to implement a typical narrow screen design with hamburger menu interactivity as well as carousel to evoke a sense of their goals and community through the images. The essential goal of this design is to distinctively showcase their events based on category.
+>
+>The rest of our pages implemented the same layout format. The only difference is that for the Instruments page, we implemented the accordian with the images and content within the bars. For the Audition page, we used the modal for each image to give the audience an idea about the audition process.
+
 - 4. Join Us
 >![Join Us]()
 
@@ -565,7 +576,7 @@ TODO: narrow sketches and explanation
 >Narrow
 ![Narrow ](images/oureventsfinalnarrow.jpg)
 - 4. Join Us
->![Join Us]()
+>![Join Us](images/joinus_narrow.png)
 
 
 **Wide Design:**
@@ -580,14 +591,15 @@ TODO: wide sketches and explanation
 >Wide
 ![Wide ](images/oureventsfinalwide.jpg)
 - 4. Join Us
->![Join Us]()
+>![Join Us](images/joinus_wide.png)
 
 
 ### Design Rationale (Milestone 2)
 > Explain why your design is appropriate for your audience.
 > Specifically, why does your content organization, navigation, and site design/layout meet the goals of your users?
 > How did you employ **design patterns** to improve the familiarity of the site for your audience?
-> The website design is appropriate for the audience because it combines visual principles as well as functionality to make the user experience a seemless one. The content is strategically grouped in a way such that, users intuitively know where to find infortmation. The familiar interactive elements in the website make it more engaging and helps satisfy the learning goal of the audience. We want to make sure that the website is easy to use, and so we plan to use standard design principles in implementing these interactive elements. The content on the website is sufficient for anyone to learn and discover everyhting about the Cornell Eastern Music Ensemble.
+
+The website design is appropriate for the audience because it combines visual principles as well as functionality to make the user experience a seemless one. The content is strategically grouped in a way such that, users intuitively know where to find infortmation. The interactive elements in the website make it more engaging and helps satisfy the learning goal of the audience. We wanted to make sure that the website is easy to use, and so we plan to use standard design principles in implementing these interactive elements. The content on the website is sufficient for anyone to learn and discover everyhting about the Cornell Eastern Music Ensemble.
 
 ## Interactivity Rationale (Milestone 2)
 > Describe the purpose of your proposed interactivity.
@@ -595,7 +607,7 @@ TODO: wide sketches and explanation
 
 We implemented modals, accordions, hamburger menus, and carousels as interactivity features.
 The modal allows users to view images more clearly and closely on browsers on which they can’t zoom in. After viewing the general layout of images, they can choose which image to view closely and this interactivity allows them to do so.
-This accordion reduces the clutter on the screens of users, allowing them to select and display the content they wish to consume. This user-centered design also makes it easier for users on narrow screens since they do not have to do much vertical scrolling to have an idea of the full content of the page.
+The accordion reduces the clutter on the screens of users, allowing them to select and display the content they wish to consume. This user-centered design also makes it easier for users on narrow screens since they do not have to do much vertical scrolling to have an idea of the full content of the page.
 The hamburger menu effectively shifts the layout of the navigation bar based on whether the user is viewing the content on wide/narrow screens. By hiding the navigation bar in the hamburger menu on a narrow screen the user has more space on their screen to actually view the content of the page.
 The carousel allows the user to shift through multiple images on the page without cluttering the page too much, as it condenses multiple images into a single feature.
 
@@ -605,7 +617,34 @@ The carousel allows the user to shift through multiple images on the page withou
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
-TODO: interactivity plan
+>Modal menu plan:
+
+HTML elements:
+- Img for normal screen
+- Div for the following: Img for when tapped on the modal, Button to exit out the modal
+
+CSS classes:
+- Hidden class for the full image and the button
+
+Initial State:
+- When the original image is clicked, the full image and the button will appear. When the button is clicked, the full image and the button will disappear into its initial state.
+
+Pseudocode:
+Open the Modal:
+```
+when #originalA is clicked:
+    remove .hidden from #fullimageA
+```
+Close the Modal:
+```
+when #buttonA is clicked:
+    add .hidden to #fullimageA
+```
+
+The initial state:
+
+Hidden class for the full image and the button, so only the img for the normal screen is seen
+
 
 > Accordion plan:
 HTML & CSS classes:
@@ -689,9 +728,18 @@ if window is wide (> 850px):
 > You should meet with your client again to obtain feedback on your design.
 > Provide a summary of the client's feedback and your meeting's minutes.
 
-TODO: client feedback
+>The client mainly wanted to streamline the information as simple as possible for their users to easily understand their club’s cultural and musical identity. The main design feedback was to implement both the accordion on the widescreen along with the narrow screen. He felt that the design should be consistent. Rather than providing too much information for each instrument on one page, he feels that the accordion would make it more fun for the audience to learn about each instrument and their corresponding members who do play. For the home page, he wants images of the team to be at the top so that this is the first impression that the users will see. Last but not least, he hopes that there will be anchor links to social media profiles so that users can easily contact them.
+>He was impressed overall with the website structure, as it did not look like a typical website from a template.
+>The website organization was very much in harmony with what his team was thinking as they felt that our iteration made sense in terms of what kind of content should go into which web page.
+>He liked our choices of interactivity as it enhanced their goals.
+>However, he did have some critiques:
+>- wants Social Media Icons with Links in the footer
+>- Wants an image carousel to be placed above the text
+>- Consistency of accordion for both wide screen and narrow screen for the instruments
+>
+>We also clarified their visibility for interactivity such as hover or cursor effects.
+>We updated with our next steps in implementing the website and scheduled upcoming meetings weekly before our final project submission deadline.
 
-TODO: meeting minutes
 
 
 ## User Testing (Final Submission)
