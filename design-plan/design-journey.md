@@ -560,7 +560,7 @@ TODO: narrow sketches and explanation
 - 1. Homepage
 >![Homepage]()
 - 2. Instruments
->![Instruments]()
+>![Instruments narrow](images/Instruments_finalDesign_narrow.PNG)
 - 3. Our Events
 >Narrow
 ![Narrow ](images/oureventsfinalnarrow.jpg)
@@ -575,7 +575,7 @@ TODO: wide sketches and explanation
 - 1. Homepage
 >![Homepage]()
 - 2. Instruments
->![Instruments]()
+>![Instruments wide](images/Instruments_finalDesign_wide.PNG)
 - 3. Our Events
 >Wide
 ![Wide ](images/oureventsfinalwide.jpg)
@@ -587,7 +587,7 @@ TODO: wide sketches and explanation
 > Explain why your design is appropriate for your audience.
 > Specifically, why does your content organization, navigation, and site design/layout meet the goals of your users?
 > How did you employ **design patterns** to improve the familiarity of the site for your audience?
-> The website design is appropriate for the audience because it combines visual principles as well as functionality to make the user experience a seemless one. The content is strategically grouped in a way such that, users intuitively know where to find infortmation. The interactive elements in the website make it more engaging and helps satisfy the learning goal of the audience. We wanted to make sure that the website is easy to use, and so we plan to use standard design principles in implementing these interactive elements. The content on the website is sufficient for anyone to learn and discover everyhting about the Cornell Eastern Music Ensemble.
+> The website design is appropriate for the audience because it combines visual principles as well as functionality to make the user experience a seemless one. The content is strategically grouped in a way such that, users intuitively know where to find infortmation. The familiar interactive elements in the website make it more engaging and helps satisfy the learning goal of the audience. We want to make sure that the website is easy to use, and so we plan to use standard design principles in implementing these interactive elements. The content on the website is sufficient for anyone to learn and discover everyhting about the Cornell Eastern Music Ensemble.
 
 ## Interactivity Rationale (Milestone 2)
 > Describe the purpose of your proposed interactivity.
@@ -607,11 +607,28 @@ The carousel allows the user to shift through multiple images on the page withou
 
 TODO: interactivity plan
 
-Accordion:
-initial state is a collapsed version of each accordion.
-pseudocode -
-    when the instrument name button is clicked (event): open the accordion
-        if the accordion is already open: toggle accordion close
+> Accordion plan:
+HTML & CSS classes:
+Each instrument will be treated as one accordion. Each accordion will contain a div with hidden content and a button for interaction with the user.
+we will employ CSS code to transform the dropdown icon when it is clicked. this will be accomplishded using a pseudoclass called rotate-icon that flips the arrow upside down whenever the button is clicked. A hidden class will also be used to hide and reveal the content
+
+Initial State:
+the initial state is a collapsed version of each accordion. meaning that the accordion-content is hidden.
+
+Pseudocode (for each accordion):
+```
+    when the instrument name button is clicked (event):
+    <!-- opens the accordion -->
+        remove .hidden from accordion-content
+        <!-- hides all other accordions -->
+        add .hidden to all other accordions
+    if accordion-button hasClass hidden:
+    <!-- rotates icon to point downwards -->
+        remove .rotate-icon from #icon
+    else
+    <!-- rotates icon to point upwards -->
+        add .rotate-icon to #icon
+```
 
 > Hamburger menu plan:
 HTML elements:
