@@ -323,13 +323,12 @@ She referred back to the examples she mentioned in question 6.
 > Analyze your audience's goals from your notes above.
 > List each goal below. There is no specific number of goals required for this, but you need enough to do the job (Hint: It's more than 1 and probably more than 2).
 
-Goal 1: TODO: brief title
+Goal 1: : Learn about the eastern music and culture
 
 - **Design Ideas and Choices** _How will you meet those goals in your design?_
   - The main focus is to make the eastern music style and culture easily understandable for the users. We will need to use visual aids such as pictures and videos of their performances and specific instruments to show their unique styles. These visual elements will help them quickly learn brief details about their music style without feeling overwhelmed and bored fo the content. Furthermore, there shouldn’t be too much text content and incorporate accordians so the audience can choose whether to look at them or not.
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
   - The website design aims to cater to the needs of the musical and cultural explorer in a clear and concise manner. From Interviewee One, who have a broad range of musical genres, she hopes to explore new styles and find the same community. As a result, visual aids and interactivity tools are essential to make the content easy to navigate without feeling overwhelmed.
-
 
 
 Goal 2: Get a feel of the club and its music through images and videos
@@ -497,7 +496,7 @@ Typography: Royal-themed calligraphy style with sharper edges and longer strokes
 This theme is appropriate for the audience in that it represents Chinese culture more directly, so that it’s obvious for a newcoming user to see that the club is based on Chinese musical culture just through the visuals. The classy theme also provides the user with a general insight of the atmosphere of the club, which is more serious than casual.
 
 3. Chinese green tea theme
-4.
+
 Colors: Shades of dark and light greens that resemble tea leaves, darker browns and whites that envision chinese ceramics
 
 Shapes: Rounder shapes that resemble nature (leaves, flowers) and no borders to give a free and vibrant feel
@@ -531,7 +530,21 @@ Document your site's layout.
 > Include some of your interactivity ideas in your sketches.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
-TODO: layout exploration sketches + explanation
+- 1. Homepage
+>![Homepage]()
+- 2. Instruments
+>![Instruments]()
+- 3. Our Events
+>Layout One Wide
+![Layout One Wide ](images/oureventslayoutonewide.jpg)
+>Layout Two Wide
+![Layout Two Wide ](images/oureventslayouttwowide.jpg)
+>Layout One Narrow
+![Layout One Narrow ](images/oureventslayoutonenarrow.jpg)
+>Layout Two Narrow
+![Layout Two Narrow ](images/oureventslaouttwonarrow.jpg)
+- 4. Join Us
+>![Join Us]()
 
 
 ### Final Design (Milestone 2)
@@ -544,10 +557,30 @@ TODO: layout exploration sketches + explanation
 
 TODO: narrow sketches and explanation
 
+- 1. Homepage
+>![Homepage]()
+- 2. Instruments
+>![Instruments]()
+- 3. Our Events
+>Narrow
+![Narrow ](images/oureventsfinalnarrow.jpg)
+- 4. Join Us
+>![Join Us]()
+
 
 **Wide Design:**
 
 TODO: wide sketches and explanation
+
+- 1. Homepage
+>![Homepage]()
+- 2. Instruments
+>![Instruments]()
+- 3. Our Events
+>Wide
+![Wide ](images/oureventsfinalwide.jpg)
+- 4. Join Us
+>![Join Us]()
 
 
 ### Design Rationale (Milestone 2)
@@ -560,8 +593,12 @@ TODO: wide sketches and explanation
 > Describe the purpose of your proposed interactivity.
 > Provide a brief rationale explaining how your proposed interactivity addresses the goals of your site's audience and enhances their user experience.
 
-TODO: 1 para
-Accordion interactivity for the instruments page: This interactivity reduces the clutter on the screens of users, allowing them to select and display the content they wish to consume. This user-centered design also makes it easier for users on narrow screens since they do not have to do much vertical scrolling to have an idea of the full content of the page.
+We implemented modals, accordions, hamburger menus, and carousels as interactivity features.
+The modal allows users to view images more clearly and closely on browsers on which they can’t zoom in. After viewing the general layout of images, they can choose which image to view closely and this interactivity allows them to do so.
+This accordion reduces the clutter on the screens of users, allowing them to select and display the content they wish to consume. This user-centered design also makes it easier for users on narrow screens since they do not have to do much vertical scrolling to have an idea of the full content of the page.
+The hamburger menu effectively shifts the layout of the navigation bar based on whether the user is viewing the content on wide/narrow screens. By hiding the navigation bar in the hamburger menu on a narrow screen the user has more space on their screen to actually view the content of the page.
+The carousel allows the user to shift through multiple images on the page without cluttering the page too much, as it condenses multiple images into a single feature.
+
 
 ## Interactivity Plan (Milestone 2)
 > Now that you've designed your interactivity for your site, you need to plan how you will implement it.
@@ -576,6 +613,60 @@ pseudocode -
     when the instrument name button is clicked (event): open the accordion
         if the accordion is already open: toggle accordion close
 
+> Hamburger menu plan:
+HTML elements:
+
+- Navbar1 for normal wide screen
+- Navbar2 for narrow screen
+- Div that contains the links of navbar2 that appear/disappear
+- Hamburger menu button on narrow screen
+
+CSS elements:
+
+- Hidden class for navbar2 on wide screens, navbar links before hamburger menu is clicked
+
+Initial state:
+
+- Widescreen: Hidden class added to navbar2 (which includes the hamburger button)
+- Narrow screen: Hidden class removed from navbar2 but added to links (so only hamburger button is visible)
+
+Pseudocode:
+Pseudocode to show/hide (toggle) the navigation menu (narrow screens):
+
+```
+when #menu is clicked (event):
+    if #link is .hidden:
+        remove .hidden from #link
+    else:
+        add .hidden to #link
+```
+
+Pseudocode to hide the hamburger button and show the navigation bar when the window is resized too wide:
+
+```
+when #navbar2 is resized (min width: 850px):
+    add .hidden to #navbar2
+    remove .hidden from #navbar1
+```
+
+Pseudocode to show the hamburger button and hide the navigation menu when the window is resized too narrow:
+
+```
+when #navbar1 is resized (max width: 850px):
+    add .hidden to #navbar1
+    remove .hidden from #navbar2
+```
+
+Pseudocode to show/hide the hamburger button and show/hide the navigation menu when page loads
+
+```
+if window is narrow (< 850px):
+    add .hidden to #navbar1
+    remove .hidden from #navbar2
+if window is wide (> 850px):
+    add .hidden to #navbar2
+    remove .hidden from #navbar1
+```
 
 ## Client Feedback & Minutes (Milestone 2)
 > You should meet with your client again to obtain feedback on your design.

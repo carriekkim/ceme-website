@@ -138,6 +138,8 @@ main .flex-container aside{
   padding-top:0px;
   line-height: 1.5;
   margin-left:40px ;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 main .flex-container aside p, aside ul {
@@ -218,6 +220,8 @@ footer {
   width: 170px;
   min-width: 740px;
   max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
@@ -457,10 +461,6 @@ button .active{
   margin-bottom: 20px;
 }
 
-.accordion {
-  width: 100%;
-}
-
 .accordion-item {
   background-color: #fff;
   margin-bottom: 10px;
@@ -476,6 +476,11 @@ button .active{
   justify-content: space-between;
   align-items: center;
   gap: 15px;
+  width: 100%;
+  border: none;
+  padding: 10px;
+  background-color: #fff;
+  font-size: 16pt;
 
 }
 
@@ -483,6 +488,7 @@ button .active{
   /* display: none; */
   padding: 10px;
   line-height: 1.5;
+  background-color: #fff;
 }
 
 .icon {
@@ -558,6 +564,32 @@ button .active{
 
   #originalC:hover{
     opacity: 1;
+  }
+
+  #fullimageA {
+    display: none;
+  }
+
+  #fullimageB {
+    display: none;
+  }
+
+  #fullimageC {
+    display: none;
+  }
+
+  #buttonA {
+    display: none;
+  }
+
+  #buttonB {
+    display: none;
+  }
+  #buttonC {
+    display: none;
+  }
+  #navmenu {
+    display: none;
   }
 
   /* #fullimageA{
