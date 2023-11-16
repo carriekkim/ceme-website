@@ -548,7 +548,7 @@ button .active{
     text-align: center;
   }
 
-  main. .flex-container aside{
+  main .flex-container aside {
     justify-content: center;
     align-items: center;
     justify-content: space-between;
@@ -593,50 +593,8 @@ button .active{
   #buttonC {
     display: none;
   }
+
   #navmenu {
     display: none;
   }
-
-  /* #fullimageA{
-    z-index:3;
-  }
-  #fullimageA img {
-    max-width: 100%;
-    width: 170px;
-    min-width: 430px;
-    max-width: 560px;
-  }
-
-  #buttonA {
-    top: 145px;
-    right: 25px;
-  }
-
-  #fullimageB{
-    z-index:3;
-  }
-  #fullimageB img {
-    max-width: 100%;
-    width: 170px;
-    min-width: 430px;
-    max-width: 560px;
-  }
-
-  #buttonB {
-    top: 145px;
-    right: 25px;
-  }
-  #fullimageC{
-    z-index:3;
-  }
-  #fullimageC img {
-    max-width: 100%;
-    width: 170px;
-    min-width: 430px;
-    max-width: 560px;
-  }
-
-  #buttonC {
-    top: 145px;
-    right: 25px;
-  } */
+}
