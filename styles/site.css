@@ -9,6 +9,7 @@ body {
   background-color: #F2EADA;
 }
 
+
 nav {
   background-color: #dbaf6d;
 }
@@ -511,6 +512,10 @@ button .active{
     box-sizing: border-box;
   }
 
+  body {
+    /* position: relative; */
+  }
+
   header div nav ul{
     flex-direction: column;
     text-align: center;
@@ -521,7 +526,7 @@ button .active{
     text-align: center;
     justify-content: space-between;
     align-items: center;
-    z-index: 2;
+    z-index: 1;
     position: fixed;
     top: 0;
     max-width: 1200px;
@@ -530,6 +535,7 @@ button .active{
     background-color: #DABDAD;
     padding: 8px 16px 8px 16px;
   }
+
 
   main .fullwidth{
     display: flex;
