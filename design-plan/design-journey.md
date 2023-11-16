@@ -360,9 +360,11 @@ Include two screenshots of the home page for each site: narrow and wide.
 **We'll refer to these are your "example websites."**
 
 1. <https://www.cuorchestra.org>
-
+    >Narrow
+    >
     ![CU Orchestra Narrow](images/websiteonenarrow.png)
-
+    >Wide
+    >
     ![CU Orchestra Wide](images/websiteonewide.png)
 
 2. <http://www.chinesemusicensemble.org>
@@ -550,6 +552,8 @@ Document your site's layout.
 >Layout Two Narrow
 ![Layout Two Narrow ](images/oureventslaouttwonarrow.jpg)
 >Narrow: First, I started with the logo in the left, and added the hamburger menu button on the right. There is a carousel of images of CEME’s events to show their events before the text content. What was different was how we separated Upcoming Events into three categories of different bordered text. I listed their events with corresponding images and finally, there is a footer that says their contact information. I wanted to implement a typical narrow screen design with hamburger menu interactivity as well as carousel to evoke a sense of their goals and community through the images. The essential goal of this design is to distinctively showcase their events based on category.
+>
+>The rest of our pages implemented the same layout format. The only difference is that for the Instruments page, we implemented the accordian with the images and content within the bars. For the Audition page, we used the modal for each image to give the audience an idea about the audition process.
 
 - 4. Join Us
 >![Join Us]()
@@ -613,7 +617,34 @@ The carousel allows the user to shift through multiple images on the page withou
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
-TODO: interactivity plan
+>Modal menu plan:
+
+HTML elements:
+- Img for normal screen
+- Div for the following: Img for when tapped on the modal, Button to exit out the modal
+
+CSS classes:
+- Hidden class for the full image and the button
+
+Initial State:
+- When the original image is clicked, the full image and the button will appear. When the button is clicked, the full image and the button will disappear into its initial state.
+
+Pseudocode:
+Open the Modal:
+```
+when #originalA is clicked:
+    remove .hidden from #fullimageA
+```
+Close the Modal:
+```
+when #buttonA is clicked:
+    add .hidden to #fullimageA
+```
+
+The initial state:
+
+Hidden class for the full image and the button, so only the img for the normal screen is seen
+
 
 Accordion:
 initial state is a collapsed version of each accordion.
@@ -680,9 +711,18 @@ if window is wide (> 850px):
 > You should meet with your client again to obtain feedback on your design.
 > Provide a summary of the client's feedback and your meeting's minutes.
 
-TODO: client feedback
+>The client mainly wanted to streamline the information as simple as possible for their users to easily understand their club’s cultural and musical identity. The main design feedback was to implement both the accordion on the widescreen along with the narrow screen. He felt that the design should be consistent. Rather than providing too much information for each instrument on one page, he feels that the accordion would make it more fun for the audience to learn about each instrument and their corresponding members who do play. For the home page, he wants images of the team to be at the top so that this is the first impression that the users will see. Last but not least, he hopes that there will be anchor links to social media profiles so that users can easily contact them.
+>He was impressed overall with the website structure, as it did not look like a typical website from a template.
+>The website organization was very much in harmony with what his team was thinking as they felt that our iteration made sense in terms of what kind of content should go into which web page.
+>He liked our choices of interactivity as it enhanced their goals.
+>However, he did have some critiques:
+>- wants Social Media Icons with Links in the footer
+>- Wants an image carousel to be placed above the text
+>- Consistency of accordion for both wide screen and narrow screen for the instruments
+>
+>We also clarified their visibility for interactivity such as hover or cursor effects.
+>We updated with our next steps in implementing the website and scheduled upcoming meetings weekly before our final project submission deadline.
 
-TODO: meeting minutes
 
 
 ## User Testing (Final Submission)
