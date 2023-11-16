@@ -595,8 +595,12 @@ TODO: wide sketches and explanation
 > Describe the purpose of your proposed interactivity.
 > Provide a brief rationale explaining how your proposed interactivity addresses the goals of your site's audience and enhances their user experience.
 
-TODO: 1 para
-Accordion interactivity for the instruments page: This interactivity reduces the clutter on the screens of users, allowing them to select and display the content they wish to consume. This user-centered design also makes it easier for users on narrow screens since they do not have to do much vertical scrolling to have an idea of the full content of the page.
+We implemented modals, accordions, hamburger menus, and carousels as interactivity features.
+The modal allows users to view images more clearly and closely on browsers on which they can’t zoom in. After viewing the general layout of images, they can choose which image to view closely and this interactivity allows them to do so.
+This accordion reduces the clutter on the screens of users, allowing them to select and display the content they wish to consume. This user-centered design also makes it easier for users on narrow screens since they do not have to do much vertical scrolling to have an idea of the full content of the page.
+The hamburger menu effectively shifts the layout of the navigation bar based on whether the user is viewing the content on wide/narrow screens. By hiding the navigation bar in the hamburger menu on a narrow screen the user has more space on their screen to actually view the content of the page.
+The carousel allows the user to shift through multiple images on the page without cluttering the page too much, as it condenses multiple images into a single feature.
+
 
 ## Interactivity Plan (Milestone 2)
 > Now that you've designed your interactivity for your site, you need to plan how you will implement it.
