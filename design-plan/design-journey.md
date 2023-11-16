@@ -532,12 +532,6 @@ Document your site's layout.
 > Here you are just exploring your layout ideas. You don't need to sketch every page.
 > Include some of your interactivity ideas in your sketches.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
-
-- 1. Homepage
-![Layout Wide ](images/home_wide_sketch.jpg)
->Wide: for the wide version on the right side of the header there is the navigation, and on the left side the logo. we have an about us section as the first thing, alongside a side bar that has all the upcoming events. under that there will be a carousel of team images, and under that carousel we'll have e-board member cards.
-![Layout Narrow ](images/home_narrow_sketch.jpg)
->Narrow: for the narrow version on the right side of the header there is the haburger menu, and on the left side the logo. we have an about us section as the first thing, the upcoming events under that. and under that there will be a carousel of team images, and under that carousel we'll have e-board member cards.
 >
 >Our Events
 >Layout One Wide
