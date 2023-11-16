@@ -561,8 +561,6 @@ Document your site's layout.
 
 **Narrow Design:**
 
-TODO: narrow sketches and explanation
-
 - 1. Homepage
 >![Homepage](images/home_narrow_final.png)
 - 2. Instruments
@@ -575,8 +573,6 @@ TODO: narrow sketches and explanation
 
 
 **Wide Design:**
-
-TODO: wide sketches and explanation
 
 - 1. Homepage
 >![Homepage](images/home_wide_final.png)
