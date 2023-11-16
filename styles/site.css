@@ -449,7 +449,7 @@ button .active{
 }
 
 .page-content{
-  max-width: 800px;
+  max-width: 900px;
   margin-left: auto;
   margin-right: auto;
   padding: 3px;
@@ -486,7 +486,6 @@ button .active{
 }
 
 .accordion-content {
-  /* display: none; */
   padding: 10px;
   line-height: 1.5;
   background-color: #fff;

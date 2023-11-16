@@ -337,7 +337,7 @@ Goal 2: Get a feel of the club and its music through images and videos
 - **Rationale & Additional Notes** _Justify your decisions; additional notes._
   - The interactivity and responsiveness of the website immerse users into the website and will help create a memorable experience. This is because it is very easy and fluid to view the vast content that is present on the website
 
-Goal 3: Make club information readily available
+Goal 3: Make events/recruitment information readily available
 
 Information about a club’s recruitment cycle and events are some of the most common pain points people have when looking at an organizations website. This is why we will put this information in multiple places throughout the site. We will have a side bar in the home where all the upcoming events will be placed, and we have dedicated tabs, for both events and recruitment. These as stated before are some of the most common pain points, and they will be addressed by strategically placing information about the club's recruitment cycle and events throughout the website. The inclusion of a prominent sidebar on the homepage, exclusively dedicated to displaying upcoming events, ensures immediate visibility. Additionally, having separate tabs dedicated specifically to events and recruitment will provide visitors with easy access to detailed information without navigating through multiple pages. The rationale behind this design approach lies in acknowledging the common frustrations faced by users seeking club-related information. By placing essential details in multiple easily accessible locations, such as the sidebar and dedicated tabs, we aim to alleviate these pain points and streamline the user experience.
 
@@ -359,9 +359,11 @@ Include two screenshots of the home page for each site: narrow and wide.
 **We'll refer to these are your "example websites."**
 
 1. <https://www.cuorchestra.org>
-
+    >Narrow
+    >
     ![CU Orchestra Narrow](images/websiteonenarrow.png)
-
+    >Wide
+    >
     ![CU Orchestra Wide](images/websiteonewide.png)
 
 2. <http://www.chinesemusicensemble.org>
@@ -532,7 +534,11 @@ Document your site's layout.
 > Provide an explanation for each sketch explaining the idea and the design patterns you are leveraging.
 
 - 1. Homepage
->![Homepage]()
+![Layout Wide ](images/home_wide_sketch.jpg)
+>Wide: for the wide version on the right side of the header there is the navigation, and on the left side the logo. we have an about us section as the first thing, alongside a side bar that has all the upcoming events. under that there will be a carousel of team images, and under that carousel we'll have e-board member cards.
+![Layout Narrow ](images/home_narrow_sketch.jpg)
+>Narrow: for the narrow version on the right side of the header there is the haburger menu, and on the left side the logo. we have an about us section as the first thing, the upcoming events under that. and under that there will be a carousel of team images, and under that carousel we'll have e-board member cards.
+
 - 2. Instruments
 >![Instruments]()
 - 3. Our Events
@@ -551,6 +557,8 @@ Document your site's layout.
 >Layout Two Narrow
 ![Layout Two Narrow ](images/oureventslaouttwonarrow.jpg)
 >Narrow: First, I started with the logo in the left, and added the hamburger menu button on the right. There is a carousel of images of CEME’s events to show their events before the text content. What was different was how we separated Upcoming Events into three categories of different bordered text. I listed their events with corresponding images and finally, there is a footer that says their contact information. I wanted to implement a typical narrow screen design with hamburger menu interactivity as well as carousel to evoke a sense of their goals and community through the images. The essential goal of this design is to distinctively showcase their events based on category.
+>
+>The rest of our pages implemented the same layout format. The only difference is that for the Instruments page, we implemented the accordian with the images and content within the bars. For the Audition page, we used the modal for each image to give the audience an idea about the audition process.
 
 - 4. Join Us
 >![Join Us]()
@@ -567,9 +575,9 @@ Document your site's layout.
 TODO: narrow sketches and explanation
 
 - 1. Homepage
->![Homepage]()
+>![Homepage](images/home_narrow_final.png)
 - 2. Instruments
->![Instruments]()
+>![Instruments narrow](images/Instruments_finalDesign_narrow.PNG)
 - 3. Our Events
 >Narrow
 ![Narrow ](images/oureventsfinalnarrow.jpg)
@@ -582,9 +590,9 @@ TODO: narrow sketches and explanation
 TODO: wide sketches and explanation
 
 - 1. Homepage
->![Homepage]()
+>![Homepage](images/home_wide_final.png)
 - 2. Instruments
->![Instruments]()
+>![Instruments wide](images/Instruments_finalDesign_wide.PNG)
 - 3. Our Events
 >Wide
 ![Wide ](images/oureventsfinalwide.jpg)
@@ -615,13 +623,57 @@ The carousel allows the user to shift through multiple images on the page withou
 > Describe how you will implement the interactivity. This should be a complete plan that another 1300 student could use to implement the interactivity.
 > You should list the HTML elements, CSS classes, events, pseudocode, and the initial state.
 
-TODO: interactivity plan
+>Modal menu plan:
 
-Accordion:
-initial state is a collapsed version of each accordion.
-pseudocode -
-    when the instrument name button is clicked (event): open the accordion
-        if the accordion is already open: toggle accordion close
+HTML elements:
+- Img for normal screen
+- Div for the following: Img for when tapped on the modal, Button to exit out the modal
+
+CSS classes:
+- Hidden class for the full image and the button
+
+Initial State:
+- When the original image is clicked, the full image and the button will appear. When the button is clicked, the full image and the button will disappear into its initial state.
+
+Pseudocode:
+Open the Modal:
+```
+when #originalA is clicked:
+    remove .hidden from #fullimageA
+```
+Close the Modal:
+```
+when #buttonA is clicked:
+    add .hidden to #fullimageA
+```
+
+The initial state:
+
+Hidden class for the full image and the button, so only the img for the normal screen is seen
+
+
+> Accordion plan:
+HTML & CSS classes:
+Each instrument will be treated as one accordion. Each accordion will contain a div with hidden content and a button for interaction with the user.
+we will employ CSS code to transform the dropdown icon when it is clicked. this will be accomplishded using a pseudoclass called rotate-icon that flips the arrow upside down whenever the button is clicked. A hidden class will also be used to hide and reveal the content
+
+Initial State:
+the initial state is a collapsed version of each accordion. meaning that the accordion-content is hidden.
+
+Pseudocode (for each accordion):
+```
+    when the instrument name button is clicked (event):
+    <!-- opens the accordion -->
+        remove .hidden from accordion-content
+        <!-- hides all other accordions -->
+        add .hidden to all other accordions
+    if accordion-button hasClass hidden:
+    <!-- rotates icon to point downwards -->
+        remove .rotate-icon from #icon
+    else
+    <!-- rotates icon to point upwards -->
+        add .rotate-icon to #icon
+```
 
 > Hamburger menu plan:
 HTML elements:
@@ -682,9 +734,18 @@ if window is wide (> 850px):
 > You should meet with your client again to obtain feedback on your design.
 > Provide a summary of the client's feedback and your meeting's minutes.
 
-TODO: client feedback
+>The client mainly wanted to streamline the information as simple as possible for their users to easily understand their club’s cultural and musical identity. The main design feedback was to implement both the accordion on the widescreen along with the narrow screen. He felt that the design should be consistent. Rather than providing too much information for each instrument on one page, he feels that the accordion would make it more fun for the audience to learn about each instrument and their corresponding members who do play. For the home page, he wants images of the team to be at the top so that this is the first impression that the users will see. Last but not least, he hopes that there will be anchor links to social media profiles so that users can easily contact them.
+>He was impressed overall with the website structure, as it did not look like a typical website from a template.
+>The website organization was very much in harmony with what his team was thinking as they felt that our iteration made sense in terms of what kind of content should go into which web page.
+>He liked our choices of interactivity as it enhanced their goals.
+>However, he did have some critiques:
+>- wants Social Media Icons with Links in the footer
+>- Wants an image carousel to be placed above the text
+>- Consistency of accordion for both wide screen and narrow screen for the instruments
+>
+>We also clarified their visibility for interactivity such as hover or cursor effects.
+>We updated with our next steps in implementing the website and scheduled upcoming meetings weekly before our final project submission deadline.
 
-TODO: meeting minutes
 
 
 ## User Testing (Final Submission)
