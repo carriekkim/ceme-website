@@ -560,9 +560,6 @@ Document your site's layout.
 >
 >The rest of our pages implemented the same layout format. The only difference is that for the Instruments page, we implemented the accordian with the images and content within the bars. For the Audition page, we used the modal for each image to give the audience an idea about the audition process.
 
-- 4. Join Us
->![Join Us]()
-
 
 ### Final Design (Milestone 2)
 > Include the final sketches for each of your pages.
