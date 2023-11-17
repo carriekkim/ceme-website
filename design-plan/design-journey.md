@@ -765,13 +765,13 @@ when #bottom button pressed
 > These must be actual user testing tasks.
 > **Tasks are not questions!**
 
-1. TODO: task 1
+1. You are interested in looking to join the CEME ensemble, but you don't know the process/how, find a way to apply.
 
-2. TODO: task 2
+2. You are interested in learning more about the string instruments after attending a chinese orchestra concert. You observed an instrument that resembled a guitar. Find more information about this instrument, how it is played and who in CEME plays it.
 
-3. TODO: task 3
+3. You are a music lover and you want to explore eastern music. Find information about when and where the nearest CEME performance is.
 
-TODO: add more tasks if necessary (a good rule of thumb is a task for every user goal)
+4. You are still curious about learning more about CEME, and you want to directly contact CEME. Find their contact information.
 
 
 ### Participant 1 (Final Submission)
