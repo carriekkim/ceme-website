@@ -632,6 +632,13 @@ when #buttonA is clicked:
     add .hidden to #fullimageA
 ```
 
+ADDITIONAL Pseudocode
+```
+when window is resized:
+    add .hidden to #fullimageA, #fullimageB, #fullimageC
+});
+```
+
 The initial state:
 
 Hidden class for the full image and the button, so only the img for the normal screen is seen

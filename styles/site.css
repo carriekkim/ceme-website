@@ -200,9 +200,6 @@ footer {
   text-align: center;
   padding: 20px 20px;
   margin-top: 36px;
-}
-
-footer {
   font-size: 14px;
 }
 
@@ -560,16 +557,18 @@ button .active{
     padding: 8px 16px 8px 16px;
   }
 
-
   main .fullwidth{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
   }
 
   main .flex-container{
     flex-direction: column;
+    height: auto;
+    width: auto;
     text-align: center;
   }
 
@@ -577,6 +576,16 @@ button .active{
     justify-content: center;
     align-items: center;
     justify-content: space-between;
+  }
+
+  main .flex-container article h2{
+    text-align: center;
+    font-size: 24px;
+  }
+
+  main .flex-container article h3{
+    text-align: center;
+    font-size: 15px;
   }
 
   main .image-flex-container {

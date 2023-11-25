@@ -23,4 +23,13 @@ if ($(document).width() > 850) {
     $('#buttonC').click(function () {
         $("#fullimageC").addClass("hidden");
     });
-}
+
+  } else {
+    $("#originalA").click(function () {
+      $("#fullimageA").addClass("hidden");
+    });
+  }
+
+$(window).on('resize', function () {
+    $("#fullimageA, #fullimageB, #fullimageC").addClass("hidden");
+});
