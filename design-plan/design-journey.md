@@ -779,21 +779,22 @@ when #bottom button pressed
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
-
+    The participant is a sophomore at Cornell University studying Communication. She is an avid music lover and listens to music from all styles from alternative pop, indie pop, pop rock, rnb, and sometimes classical music depending on her mood. For her, music is an important element of her life. She is also interested in fashion and beauty.
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
+    Yes: Yes, as she is an avid music lover that hopes to explore all styles of genre. She is willing to explore Chinese eastern music.
 
 
 ### Participant 1 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
-
-TODO: participant user test notes
-
+>
+>1. At first, she looked through the homepage to find the process of joining the team, but then she realized that there was a navigation bar, and then she quickly found the information. Perhaps, the color scheme made the navigation bar too hard to locate.
+>2. This was an easy task as she realized from the start that the upcoming performances were located on the side bar.
+>3. This was also easy as she was able to look through the Instruments page and quickly looked through the accordion and found that the instrument that looks like a guitar is the Pipa.
+>4. She immediately scrolled down to the footer, and found their contact information.
 
 ### Participant 2 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
@@ -843,7 +844,7 @@ TODO: add more participants if necessary
 ## Website Revision Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
 
-TODO: explain the revisions to your website from user testing
+>- The first changes we made was the color scheme as the colors seem to be fairly similar and made the navigation bar kind of hidden.
 
 
 ## Grading (Final Submission)
