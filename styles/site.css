@@ -207,8 +207,13 @@ footer {
   display: none !important;
 }
 
+#originalA{
+  outline-offset: 2px;
+}
+
 #originalA:hover{
   opacity: 0.7;
+  cursor: pointer;
 }
 
 #fullimageA {
@@ -252,19 +257,24 @@ footer {
   display: flex;
   position: fixed;
   font-size: 25px;
-  background-color: rgba(255, 255, 255, 0.496);
+  background-color: white;
   opacity: 0.7;
   z-index: 3;
   border:none;
   cursor: pointer;
+  outline-offset: 2px;
 }
 
 #buttonA:hover{
-  color: #59010F;
+  background-color: #808080;
 }
 
+#originalB{
+  outline-offset: 2px;
+}
 #originalB:hover{
   opacity: 0.7;
+  cursor: pointer;
 }
 
 #fullimageB {
@@ -306,19 +316,25 @@ footer {
   display: flex;
   position: fixed;
   font-size: 25px;
-  background-color: rgba(255, 255, 255, 0.496);
+  background-color: white;
   opacity: 0.7;
   z-index: 3;
   border:none;
   cursor: pointer;
+  outline-offset: 2px;
 }
 
 #buttonB:hover{
-  color: #59010F;
+  background-color: #808080;
+}
+
+#originalC{
+  outline-offset: 2px;
 }
 
 #originalC:hover{
   opacity: 0.7;
+  cursor: pointer;
 }
 
 #fullimageC {
@@ -360,15 +376,16 @@ footer {
   display: flex;
   position: fixed;
   font-size: 25px;
-  background-color: rgba(255, 255, 255, 0.496);
+  background-color: white;
   opacity: 0.7;
   z-index: 3;
   border:none;
   cursor: pointer;
+  outline-offset: 2px;
 }
 
 #buttonC:hover{
-  color: #59010F;
+  background-color: #808080;
 }
 
 .gallery {
