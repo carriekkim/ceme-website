@@ -13,11 +13,18 @@ body {
   display: flex;
   flex-direction: row;
   z-index: 1;
-  position:absolute;
   top: 0;
   justify-content: space-between;
   width: 100%;
   background-color: #dbaf6d;
+}
+
+#navbar2 p {
+  text-align: center;
+  font-size: 20px;
+  vertical-align: middle;
+  position: absolute;
+  left: 100px;
 }
 
 #navbar2 img {
@@ -32,19 +39,25 @@ body {
   flex-direction: column;
 }
 
-#hamburger-menu nav {
+#links {
   position: absolute;
   top: 0;
   right: 0;
   margin-top: 60px;
 }
 
-#hamburger-menu nav ul {
+#links ul {
   display: flex;
   flex-direction: column;
   z-index: 1;
-  align-items: end;
+  align-items:end;
   padding: 0;
+  right: 0;
+  background-color: rgb(150, 139, 121);
+  opacity: 0.9;
+  margin-top: 10px;
+  margin-right: 0;
+  text-align: right;
 }
 
 #hamburger {
@@ -55,13 +68,28 @@ body {
   font-size: 24px;
 }
 
+#navbar1 {
+  display: flex;
+}
+
+#navbar1 picture {
+  text-align: center;
+}
+
+#navbar1 img {
+  max-width: 33%;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  min-width: 80px;
+}
+
 nav ul {
   display: flex;
   flex-direction: row;
   align-items: center;
-  margin: 0;
+  /* margin: 0; */
   justify-content: space-between;
-  margin-left: 33px;
+  /* margin-left: 33px; */
   margin-right: 33px;
   margin-top: 10px;
   margin-bottom: 0px;
@@ -93,6 +121,7 @@ nav ul li img {
   margin-top: 3px;
   margin-bottom: 3px;
 }
+
 
 main {
   display: flex;
@@ -552,6 +581,14 @@ button .active{
 
   body {
     /* position: relative; */
+  }
+
+  navbar1 {
+    display: none;
+  }
+
+  navbar2 {
+    display: inline;
   }
 
   header div nav ul{
