@@ -10,6 +10,10 @@ body {
   background-color: #ffffff;
 }
 
+main h2 {
+  font-weight: bolder;
+}
+
 #navbar2 {
   display: flex;
   flex-direction: row;
