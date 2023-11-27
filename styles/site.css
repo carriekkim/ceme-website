@@ -252,7 +252,15 @@ footer {
   text-align: center;
   padding: 20px 20px;
   margin-top: 36px;
-  font-size: 14px;
+  font-size: 13px;
+}
+
+.emp-text {
+  color: #f8eedc;
+}
+
+footer h2 {
+  font-size: 27px;
 }
 
 .hidden {
