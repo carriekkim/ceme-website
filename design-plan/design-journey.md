@@ -863,7 +863,7 @@ TODO: add more participants if necessary
 ### Collaborators (Final Submission)
 > List any persons you collaborated with on this project.
 
-TODO: list your collaborators
+Ashley Huang (ah859), Carrie Kim (kk847), Juan de Maqua (jjd294), Nana Darko (nkd26)
 
 
 ### Reference Resources (Final Submission)
