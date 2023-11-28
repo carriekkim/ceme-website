@@ -808,20 +808,24 @@ when #bottom button pressed
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
+    The participant is a junior majoring in Computer Science and ECE. She listens mainly to pop and rock music. She travels a lot because she takes part in many conferences in other states, so she has a lot of spare time to listen to music.
 
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
+    Yes, she is open to exploring new trends and cultures of music, and she has a lot of friends associated with the culture so she is interested in CEME, though it’s an unfamiliar style of music for her.
 
 
 ### Participant 2 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+1. She examined the navigation bar first to see what the available pages were, and found the audition information page easily.
+2. She did the same as the first task to find the instruments page, then opened the accordion for each instrument to find the images. When she found the instrument image she read through the presented information.
+3. She had noticed the side bar immediately and remembered that upcoming performances were written on it.
+4. While she was scrolling through the pages she had noticed the presence of the footer. At this task, she knew she had to scroll to the footer and found the contact information.
+
 
 
 ### Participant 3 (Final Submission)
