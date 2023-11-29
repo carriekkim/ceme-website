@@ -799,8 +799,8 @@ when #bottom button pressed
 > When conducting user testing, you should take notes during the test.
 >
 >1. At first, she looked through the homepage to find the process of joining the team, but then she realized that there was a navigation bar, and then she quickly found the information. Perhaps, the color scheme made the navigation bar too hard to locate.
->2. This was an easy task as she realized from the start that the upcoming performances were located on the side bar.
->3. This was also easy as she was able to look through the Instruments page and quickly looked through the accordion and found that the instrument that looks like a guitar is the Pipa.
+>2. This was also easy as she was able to look through the Instruments page and quickly looked through the accordion and found that the instrument that looks like a guitar is the Pipa.
+>3. This was an easy task as she realized from the start that the upcoming performances were located on the side bar.
 >4. She immediately scrolled down to the footer, and found their contact information.
 
 ### Participant 2 (Final Submission)
