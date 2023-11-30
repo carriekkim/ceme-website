@@ -5,7 +5,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   /* background-color: #F2EADA; */
   background-color: #ffffff;
 }
@@ -59,7 +59,7 @@ main h2 {
   display: flex;
   flex-direction: column;
   z-index: 1;
-  align-items:end;
+  align-items: end;
   padding: 0;
   right: 0;
   background-color: rgba(24, 38, 62);
@@ -120,9 +120,9 @@ nav ul li {
 }
 
 nav ul li a {
-  display:block;
-  padding-left:25px;
-  padding-right:25px;
+  display: block;
+  padding-left: 25px;
+  padding-right: 25px;
   border-radius: 10px;
   color: #ffffff;
   text-decoration: none;
@@ -148,36 +148,36 @@ main {
   text-align: center;
   padding: 10px;
   justify-content: space-between;
-  max-width:100%;
-  height:100%;
+  max-width: 100%;
+  height: 100%;
   margin-left: 33px;
   margin-right: 33px;
 }
 
-main h2{
+main h2 {
   padding-bottom: 15px;
   font-size: 35px;
 }
 
-main .flex-container{
+main .flex-container {
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
 }
 
-main .flex-container article{
+main .flex-container article {
   line-height: 1.8;
   max-width: 650px;
   text-align: left;
   margin: 0 10px;
   margin-right: 36px;
-  font-size:15px;
+  font-size: 15px;
   padding-top: 0px;
 }
 
-main .flex-container aside{
-  background-color: 	#fcf8f0 ;
+main .flex-container aside {
+  background-color: #fcf8f0;
   /* border: 4px groove rgb(96, 117, 160); */
   border: 6px groove rgb(219, 211, 194, .7);
   max-width: 250px;
@@ -185,34 +185,35 @@ main .flex-container aside{
   margin: auto;
   text-align: left;
   line-height: 1.5;
-  margin-left:36px;
-  padding-right:15px;
-  padding-left:15px;
+  margin-left: 36px;
+  padding-right: 15px;
+  padding-left: 15px;
   padding-bottom: 20px;
 }
 
-main .flex-container aside p, aside ul {
+main .flex-container aside p,
+aside ul {
   margin: 0;
 }
 
-main .flex-container aside h2{
-  padding-top:6px;
+main .flex-container aside h2 {
+  padding-top: 6px;
   padding-bottom: 6px;
   font-size: 21px;
 }
 
-main .flex-container aside h3{
+main .flex-container aside h3 {
   font-size: 17px;
 }
 
 main .flex-container aside ul li {
   list-style: none;
-  font-size:14px;
+  font-size: 14px;
 }
 
-main .flex-container aside p{
+main .flex-container aside p {
   list-style: none;
-  font-size:14px;
+  font-size: 14px;
 }
 
 main .fullwidth {
@@ -226,8 +227,8 @@ main article h2 {
   margin: 0 0;
 }
 
-main .fullwidth img{
-  padding-bottom:26px;
+main .fullwidth img {
+  padding-bottom: 26px;
   max-width: 1000px;
   position: relative;
   max-width: 100%;
@@ -263,15 +264,11 @@ footer h2 {
   font-size: 27px;
 }
 
-.hidden {
-  display: none !important;
-}
-
-#originalA{
+#originalA {
   outline-offset: 2px;
 }
 
-#originalA:hover{
+#originalA:hover {
   opacity: 0.7;
   cursor: pointer;
 }
@@ -290,8 +287,8 @@ footer h2 {
 }
 
 #fullimageA img {
-  margin:auto;
-  display:block;
+  margin: auto;
+  display: block;
   justify-content: center;
   height: auto;
   max-height: 500px;
@@ -304,7 +301,7 @@ footer h2 {
 }
 
 
-#fullimageA img:hover{
+#fullimageA img:hover {
   color: #bbb;
 }
 
@@ -320,19 +317,20 @@ footer h2 {
   background-color: white;
   opacity: 0.7;
   z-index: 3;
-  border:none;
+  border: none;
   cursor: pointer;
   outline-offset: 2px;
 }
 
-#buttonA:hover{
+#buttonA:hover {
   background-color: #808080;
 }
 
-#originalB{
+#originalB {
   outline-offset: 2px;
 }
-#originalB:hover{
+
+#originalB:hover {
   opacity: 0.7;
   cursor: pointer;
 }
@@ -351,8 +349,8 @@ footer h2 {
 }
 
 #fullimageB img {
-  margin:auto;
-  display:block;
+  margin: auto;
+  display: block;
   justify-content: center;
   height: auto;
   max-height: 500px;
@@ -363,7 +361,7 @@ footer h2 {
 }
 
 
-#fullimageB img:hover{
+#fullimageB img:hover {
   color: #bbb;
 }
 
@@ -379,20 +377,20 @@ footer h2 {
   background-color: white;
   opacity: 0.7;
   z-index: 3;
-  border:none;
+  border: none;
   cursor: pointer;
   outline-offset: 2px;
 }
 
-#buttonB:hover{
+#buttonB:hover {
   background-color: #808080;
 }
 
-#originalC{
+#originalC {
   outline-offset: 2px;
 }
 
-#originalC:hover{
+#originalC:hover {
   opacity: 0.7;
   cursor: pointer;
 }
@@ -411,8 +409,8 @@ footer h2 {
 }
 
 #fullimageC img {
-  margin:auto;
-  display:block;
+  margin: auto;
+  display: block;
   justify-content: center;
   height: auto;
   max-height: 500px;
@@ -423,7 +421,7 @@ footer h2 {
 }
 
 
-#fullimageC img:hover{
+#fullimageC img:hover {
   color: #bbb;
 }
 
@@ -439,12 +437,12 @@ footer h2 {
   background-color: white;
   opacity: 0.7;
   z-index: 3;
-  border:none;
+  border: none;
   cursor: pointer;
   outline-offset: 2px;
 }
 
-#buttonC:hover{
+#buttonC:hover {
   background-color: #808080;
 }
 
@@ -453,22 +451,22 @@ footer h2 {
   width: 100%;
 }
 
-.next-prev{
+.next-prev {
   flex-direction: row;
   justify-content: center;
   align-items: center;
   display: flex;
   width: 100%;
   max-height: 500px;
-  margin-top:0px;
+  margin-top: 0px;
 }
 
-.next-prev button:hover{
+.next-prev button:hover {
   background-color: rgba(94, 94, 94, 0.7);
   cursor: pointer;
 }
 
-.next-prev picture{
+.next-prev picture {
   display: inline-block;
   max-width: 990px;
   max-height: 500px;
@@ -477,21 +475,23 @@ footer h2 {
   background-color: black;
   justify-content: center;
 }
-.next-prev picture img{
+
+.next-prev picture img {
   justify-content: center;
   width: 100%;
   height: auto;
   max-height: 500px;
   /* min-width: 350px; */
-  max-width:990px;
+  max-width: 990px;
 }
 
-.npimage{
+.npimage {
   position: relative;
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
+
 .overlay-buttons {
   display: flex;
   flex-direction: row;
@@ -501,22 +501,23 @@ footer h2 {
   height: 100%;
   justify-content: space-between;
 }
+
 .overlay-buttons button {
   background-color: rgba(94, 94, 94, 0.4);
   width: 10%;
   border-width: 0px;
 }
 
-.bottom-buttons{
+.bottom-buttons {
   flex-direction: row;
   margin-top: .5em;
 }
 
 .gallery {
-  margin-bottom:40px;
+  margin-bottom: 40px;
 }
 
-.bottom-buttons button{
+.bottom-buttons button {
   display: inline-block;
   width: 20px;
   height: 20px;
@@ -526,15 +527,16 @@ footer h2 {
   margin-left: 20px;
 }
 
-button .active{
+button .active {
   background-color: #5f5f5f;
 }
-.bottom-buttons button:hover{
+
+.bottom-buttons button:hover {
   background-color: #5f5f5f;
   cursor: pointer;
 }
 
-.flex-cards{
+.flex-cards {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -556,7 +558,8 @@ button .active{
   /* border-radius: 10px; */
   margin: 1em 2em;
 }
-.card picture img{
+
+.card picture img {
   padding-top: 10px;
   max-width: 150px;
   width: 100%;
@@ -564,19 +567,19 @@ button .active{
   border-radius: 50%;
 }
 
-.page-content{
+.page-content {
   max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
   padding: 3px;
 }
 
-.page-content hr{
+.page-content hr {
   margin-bottom: 15px;
 }
 
-.page-content img{
-  width:100%;
+.page-content img {
+  width: 100%;
   height: auto;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -589,7 +592,7 @@ button .active{
   border: 1px solid #ccc;
 }
 
-.accordion-item:hover{
+.accordion-item:hover {
   border-color: red;
 }
 
@@ -631,9 +634,9 @@ button .active{
 }
 
 @media (prefers-reduced-motion: reduce) {
-.icon{
-  transition: none;
-}
+  .icon {
+    transition: none;
+  }
 }
 
 @media (max-width: 850px) {
@@ -653,13 +656,13 @@ button .active{
     display: inline;
   }
 
-  header div nav ul{
+  header div nav ul {
     flex-direction: column;
     text-align: center;
   }
 
-  #header{
-    display:flex;
+  #header {
+    display: flex;
     text-align: center;
     justify-content: space-between;
     align-items: center;
@@ -673,7 +676,7 @@ button .active{
     padding: 8px 16px 8px 16px;
   }
 
-  main .fullwidth{
+  main .fullwidth {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -681,7 +684,7 @@ button .active{
     text-align: center;
   }
 
-  main .flex-container{
+  main .flex-container {
     flex-direction: column;
     height: auto;
     width: auto;
@@ -694,12 +697,12 @@ button .active{
     justify-content: space-between;
   }
 
-  main .flex-container article h2{
+  main .flex-container article h2 {
     text-align: center;
     font-size: 24px;
   }
 
-  main .flex-container article h3{
+  main .flex-container article h3 {
     text-align: center;
     font-size: 15px;
   }
@@ -709,15 +712,15 @@ button .active{
     text-align: center;
   }
 
-  #originalA:hover{
+  #originalA:hover {
     opacity: 1;
   }
 
-  #originalB:hover{
+  #originalB:hover {
     opacity: 1;
   }
 
-  #originalC:hover{
+  #originalC:hover {
     opacity: 1;
   }
 
@@ -740,6 +743,7 @@ button .active{
   #buttonB {
     display: none;
   }
+
   #buttonC {
     display: none;
   }
