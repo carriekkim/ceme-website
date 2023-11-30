@@ -6,7 +6,6 @@ body {
   margin: 0;
   padding: 0;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  /* background-color: #F2EADA; */
   background-color: #ffffff;
 }
 
@@ -188,7 +187,6 @@ main .flex-container article {
 
 main .flex-container aside {
   background-color: #fcf8f0;
-  /* border: 4px groove rgb(96, 117, 160); */
   border: 6px groove rgb(219, 211, 194, .7);
   max-width: 250px;
   height: auto;
@@ -491,7 +489,6 @@ footer h2 {
   width: 100%;
   height: auto;
   max-height: 500px;
-  /* min-width: 350px; */
   max-width: 990px;
 }
 
@@ -561,11 +558,6 @@ button .active {
   align-items: center;
   justify-content: center;
   border: 5px ridge rgb(230, 230, 229, 0.6);
-  /* border-bottom: black solid;
-  border-top: black solid;
-  border-left: black solid;
-  border-right: black solid; */
-  /* border-radius: 10px; */
   margin: 1em 2em;
 }
 
@@ -658,25 +650,10 @@ button .active {
     box-sizing: border-box;
   }
 
-  body {
-    /* position: relative; */
-  }
-
-  /* navbar1 {
-    display: none;
-  }
-
-  navbar2 {
-    display: inline;
-  } */
 
   header div nav ul {
     flex-direction: column;
     text-align: center;
-  }
-
-  .page-content {
-    /* text-align: center; */
   }
 
   .page-content h2 {
