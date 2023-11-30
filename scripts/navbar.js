@@ -9,10 +9,10 @@
 $(document).ready(function() {
     console.log("loading works");
     if ($(document).width() < 850) {
-      $("#navbar1").addClass("hidden");
-      $("#navbar2").removeClass("hidden");
+      $("#navbar1").addClass("accessible-hidden");
+      $("#navbar2").removeClass("accessible-hidden");
     } else {
-      $("#navbar2").addClass("hidden");
+      $("#navbar2").addClass("accessible-hidden");
     }
   });
 
@@ -24,14 +24,14 @@ $(document).ready(function() {
     console.log("resizing works");
       if ($(document).width() < 850) {
         // TODO: snippet(s) to respond when the screen size is less than TODO_SCREEN_WIDTH
-        $("#navbar1").addClass("hidden");
-        $("#navbar2").removeClass("hidden");
-        if (!$("#links").hasClass("hidden")) {
-          $("#links").addClass("hidden");
+        $("#navbar1").addClass("accessible-hidden");
+        $("#navbar2").removeClass("accessible-hidden");
+        if (!$("#links").hasClass("accessible-hidden")) {
+          $("#links").addClass("accessible-hidden");
         }
       } else {
         // TODO: snippet(s) to respond when the screen size greater than or equal to the TODO_SCREEN_WIDTH
-        $("#navbar2").addClass("hidden");
-        $("#navbar1").removeClass("hidden");
+        $("#navbar2").addClass("accessible-hidden");
+        $("#navbar1").removeClass("accessible-hidden");
       }
     });
