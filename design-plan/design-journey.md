@@ -833,20 +833,23 @@ when #bottom button pressed
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-    TODO: tell us about the participant
+    The third participant is a sophomore studying Mechanical Engineering, he is an avid music listener, and he's an avid long-runner (10 miles+), so he spends a lot of time listening to music.
 
 
 2. Does the user belong to your audience of the site?
 
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
-    TODO: (Yes / No)
+    Yes: he is very open to listening to new styles of music, and learning about them.
 
 
 ### Participant 3 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
 
-TODO: participant user test notes
+1. The participant found the correct page, but would have liked for the form to be integrated into the website.
+2. The participant went to the "Our Events" page, and found the sidebar containing the event dates, he wpuld have liked for the events to be sorted by date, and adding the year.
+3. The participant went over to the Instruments page, and looked around until he found the pipa succesfully.
+4. He went to the home page, and scrolled down until he found the information in the footer, he said it felt natural to find it in that spot.
 
 
 TODO: add more participants if necessary
