@@ -511,6 +511,11 @@ footer h2 {
   flex-direction: row;
   margin-top: .5em;
 }
+
+.gallery {
+  margin-bottom:40px;
+}
+
 .bottom-buttons button{
   display: inline-block;
   width: 20px;
