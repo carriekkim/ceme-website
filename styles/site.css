@@ -676,11 +676,12 @@ button .active {
   }
 
   .page-content {
-    text-align: center;
+    /* text-align: center; */
   }
 
   .page-content h2 {
     font-size: 24px;
+    text-align: center;
   }
 
   #header {
