@@ -827,6 +827,13 @@ when #bottom button pressed
 4. While she was scrolling through the pages she had noticed the presence of the footer. At this task, she knew she had to scroll to the footer and found the contact information.
 
 
+### Participant 3 -- Testing Notes (Final Submission)
+> When conducting user testing, you should take notes during the test.
+
+1. The participant found the correct page, but would have liked for the form to be integrated into the website.
+2. The participant went to the "Our Events" page, and found the sidebar containing the event dates, he wpuld have liked for the events to be sorted by date, and adding the year.
+3. The participant went over to the Instruments page, and looked around until he found the pipa succesfully.
+4. He went to the home page, and scrolled down until he found the information in the footer, he said it felt natural to find it in that spot.
 
 ### Participant 3 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
@@ -843,23 +850,34 @@ when #bottom button pressed
     Yes: he is very open to listening to new styles of music, and learning about them.
 
 
-### Participant 3 -- Testing Notes (Final Submission)
+### Participant 4 -- Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test.
+1. Participant was initally looking for a locally hosted form to join CEME bujt after reading through the content of the join us page, she understood how to go about that.
+2. participant immediately went to the instruments page and browsed through the photos to identify the instrument. Was hesitant for a moment to click on accordion because there was very little indication that those were clickable buttons.
+3. Immediately found information in the sidebars and navigated to the events page to find more information.
+4. Went off her intuition to the footer to find contact information.
 
-1. The participant found the correct page, but would have liked for the form to be integrated into the website.
-2. The participant went to the "Our Events" page, and found the sidebar containing the event dates, he wpuld have liked for the events to be sorted by date, and adding the year.
-3. The participant went over to the Instruments page, and looked around until he found the pipa succesfully.
-4. He went to the home page, and scrolled down until he found the information in the footer, he said it felt natural to find it in that spot.
+### Participant 4 (Final Submission)
+> Using your notes from above, describe your user by answering the questions below.
+
+1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
+
+    The fourth participant is a business major at cornell and produces his own music, and also for up and coming musicians.
 
 
-TODO: add more participants if necessary
+2. Does the user belong to your audience of the site?
+
+    > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
+
+    Yes: He makes music himself and samples a lot of other genres in his work. So he is always very curious about learning new music
 
 
 ## Website Revision Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
 
 >- The first changes we made was the color scheme as the colors seem to be fairly similar and made the navigation bar kind of hidden.
-
+- added highlight of the borders of accordion on hover to add more affordance to the interactivty.
+- made the interacticty more accessible by integrating css for anybody who prefers to not have any animations
 
 ## Grading (Final Submission)
 
