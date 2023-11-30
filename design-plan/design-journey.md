@@ -849,14 +849,6 @@ when #bottom button pressed
 3. The participant went over to the Instruments page, and looked around until he found the pipa succesfully.
 4. He went to the home page, and scrolled down until he found the information in the footer, he said it felt natural to find it in that spot.
 
-
-### Participant 4 -- Testing Notes (Final Submission)
-> When conducting user testing, you should take notes during the test.
-1. Participant was initally looking for a locally hosted form to join CEME bujt after reading through the content of the join us page, she understood how to go about that.
-2. participant immediately went to the instruments page and browsed through the photos to identify the instrument. Was hesitant for a moment to click on accordion because there was very little indication that those were clickable buttons.
-3. Immediately found information in the sidebars and navigated to the events page to find more information.
-4. Went off her intuition to the footer to find contact information.
-
 ### Participant 4 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
@@ -871,13 +863,19 @@ when #bottom button pressed
 
     Yes: He makes music himself and samples a lot of other genres in his work. So he is always very curious about learning new music
 
+### Participant 4 -- Testing Notes (Final Submission)
+> When conducting user testing, you should take notes during the test.
+1. Participant was initally looking for a locally hosted form to join CEME bujt after reading through the content of the join us page, she understood how to go about that.
+2. participant immediately went to the instruments page and browsed through the photos to identify the instrument. Was hesitant for a moment to click on accordion because there was very little indication that those were clickable buttons.
+3. Immediately found information in the sidebars and navigated to the events page to find more information.
+4. Went off her intuition to the footer to find contact information.
 
 ## Website Revision Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
 
->- The first changes we made was the color scheme as the colors seem to be fairly similar and made the navigation bar kind of hidden.
-- added highlight of the borders of accordion on hover to add more affordance to the interactivty.
-- made the interacticty more accessible by integrating css for anybody who prefers to not have any animations
+- The first changes we made was the color scheme as the colors seem to be fairly similar and made the navigation bar kind of hidden.
+- Added highlight of the borders of accordion on hover to add more affordance to the interactivty.
+- Made the interacticty more accessible by integrating css for anybody who prefers to not have any animations
 
 ## Grading (Final Submission)
 

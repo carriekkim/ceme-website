@@ -6,9 +6,9 @@
 
 $("#hamburger").click(function() {
     console.log("menu click works");
-      if ($("#links").hasClass("hidden")) {
-        $("#links").removeClass("hidden");
+      if ($("#links").hasClass("accessible-hidden")) {
+        $("#links").removeClass("accessible-hidden");
       } else {
-        $("#links").addClass("hidden");
+        $("#links").addClass("accessible-hidden");
       }
     });
