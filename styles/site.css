@@ -569,6 +569,10 @@ button .active{
   border: 1px solid #ccc;
 }
 
+.accordion-item:hover{
+  border-color: red;
+}
+
 .accordion-header {
   font-size: 18px;
   font-weight: bold;
