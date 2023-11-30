@@ -826,15 +826,6 @@ when #bottom button pressed
 3. She had noticed the side bar immediately and remembered that upcoming performances were written on it.
 4. While she was scrolling through the pages she had noticed the presence of the footer. At this task, she knew she had to scroll to the footer and found the contact information.
 
-
-### Participant 3 -- Testing Notes (Final Submission)
-> When conducting user testing, you should take notes during the test.
-
-1. The participant found the correct page, but would have liked for the form to be integrated into the website.
-2. The participant went to the "Our Events" page, and found the sidebar containing the event dates, he wpuld have liked for the events to be sorted by date, and adding the year.
-3. The participant went over to the Instruments page, and looked around until he found the pipa succesfully.
-4. He went to the home page, and scrolled down until he found the information in the footer, he said it felt natural to find it in that spot.
-
 ### Participant 3 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
@@ -848,6 +839,15 @@ when #bottom button pressed
     > If “No”, what’s your strategy of associating the user test results to your audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the audience?
 
     Yes: he is very open to listening to new styles of music, and learning about them.
+
+
+### Participant 3 -- Testing Notes (Final Submission)
+> When conducting user testing, you should take notes during the test.
+
+1. The participant found the correct page, but would have liked for the form to be integrated into the website.
+2. The participant went to the "Our Events" page, and found the sidebar containing the event dates, he wpuld have liked for the events to be sorted by date, and adding the year.
+3. The participant went over to the Instruments page, and looked around until he found the pipa succesfully.
+4. He went to the home page, and scrolled down until he found the information in the footer, he said it felt natural to find it in that spot.
 
 
 ### Participant 4 -- Testing Notes (Final Submission)
